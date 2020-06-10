@@ -233,7 +233,7 @@ button {
 .site-footer {text-align: center;}
 
 .purple-shadow,
-h1, h2, h3,
+h1, h2,
 .site-header nav a:not([data-current]) {
 	color: #fff;
 	text-shadow: 0.1em 0.1em 0 var(--primary);
