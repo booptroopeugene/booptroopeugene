@@ -7,14 +7,12 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Boop Trop Eugene
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+We strive to provide real and ethical coverage of socio-economic issues, protests and educational awareness. 
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+It is our goal to assist in creating a better community for everyone in the Eugene-Springfield area. 
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+Proud to support black lives matters, the marginalized and fostering a safer community for the youth of tomorrow by taking action today. 
 
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Because everyone deserves to breathe and obtain justice. #booptroopeugene
