@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
+	--primary: rgb(87, 27, 143);
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: #000;
 }
 
 *, *:before, *:after {
@@ -20,6 +20,7 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
+	color: #eee;
 }
 
 main {
@@ -188,4 +189,56 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
+}
+
+.home-social-icons {
+	display: flex;
+	justify-content: space-between;
+}
+
+.home-social-icon {
+	flex: 0 0 100px;
+}
+.home-social-icon img {
+	max-width: 100%;
+}
+
+.page-banner {
+	width: 100%;
+}
+
+.site-header {
+    background-image: url(/static/img/tre-fist.jpg);
+    height: 50vh;
+	background-size: 115%;
+	background-position: center top;
+	padding: 0 5%;
+}
+
+.site-header .site-title {
+	margin: 10px auto;
+    max-width: 18.75em;
+}
+
+.site-header nav {
+    max-width: 37.5em;
+	margin: 0 auto;
+	font-weight: 700;
+}
+
+.site-main {
+	margin: 0 auto;
+}
+
+.site-footer {text-align: center;}
+
+.purple-shadow,
+h1, h2, h3,
+.site-header nav a:not([data-current]) {
+	color: #fff;
+	text-shadow: 0.1em 0.1em 0 var(--primary);
+}
+a.purple-shadow:visited {
+	color: #fff;
+	text-shadow: 0.1em 0.1em 0 var(--primary);
 }

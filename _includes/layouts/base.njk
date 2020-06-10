@@ -5,14 +5,14 @@
 
 	<body>
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+		<header class="site-header">
+			<em class="site-title">
+				<a class="purple-shadow" href="{{ '/' | url }}">{{ metadata.title }}</a>
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
 
-		<main>
+		<main class="site-main">
 			{{ layoutContent | safe }}
 		</main>
 

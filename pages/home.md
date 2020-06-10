@@ -8,9 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 
-<img class="page-banner" src="/static/img/tre-fist.jpg" alt="Tre - The People's Fist">
-
-# Boop Trop Eugene
+# What The Heck Is A Boop Troop?
 
 We strive to provide real and ethical coverage of socio-economic issues, protests and educational awareness. 
 
