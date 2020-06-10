@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-netlify-boilerplate",
-  "version": "1.0.3",
-  "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "name": "booptroopeugene",
+  "version": "0.5",
+  "description": "Community driven #booptroopeugene website. 11ty + Netlify + NetlifyCMS.",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
