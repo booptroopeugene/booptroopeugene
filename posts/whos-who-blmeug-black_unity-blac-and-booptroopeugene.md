@@ -1,13 +1,19 @@
 ---
-title: "Who's who: BLMEug, Black_Unity, BLAC, and #booptroopeugene"
+title: "BLACK LIVES MATTER IN EUGENE: WHERE TO GO TO SUPPORT THE MOVEMENT"
 date: 2020-06-11T04:53:39.513Z
 author: Sai Marie Johnson
-summary: As grassroots organizers move to coordinate more protests the
-  understanding for unity has become glaringly apparent and brings up the
-  question of who should be trusted to support Black Lives Matter in our
-  community?
+summary: "Places and organizations to keep your eye on to support local Black
+  Lives Matter events. "
 tags:
   - post
+  - black lives matter
+  - organizations
+  - grassroots
+  - protesting
+  - eugene protest groups
+  - free speech
+  - free press
+  - blm
 ---
 <em style="background-attachment: initial; background-clip: initial; background-image: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; color: #0e101a; margin-bottom: 0pt; margin-top: 0pt;">  </em><img alt="" class="wp-image-2575" height="484" src="https://saimariejohnson.files.wordpress.com/2020/06/screen-shot-2020-06-10-at-8.41.49-pm.png?w=696" width="330" /><br />
 <!-- wp:image {"align":"center","id":2575,"width":330,"height":484,"sizeSlug":"large","className":"is-style-rounded"} -->
