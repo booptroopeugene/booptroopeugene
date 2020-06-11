@@ -1,7 +1,7 @@
 ---
 title: "Who's who: BLMEug, Black_Unity, BLAC, and #booptroopeugene"
 date: 2020-06-11T04:53:39.513Z
-author: Jane Doe
+author: Sai Marie Johnson
 summary: As grassroots organizers move to coordinate more protests the
   understanding for unity has become glaringly apparent and brings up the
   question of who should be trusted to support Black Lives Matter in our
