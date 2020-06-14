@@ -1,5 +1,5 @@
 ---
-title: "BLM In Eugene&#58; Where To Go To Support the Movement"
+title: "BLM In Eugene - Where To Go To Support the Movement"
 date: 2020-06-11T04:53:39.513Z
 author: Sai Marie Johnson
 summary: "Places and organizations to keep your eye on to support local Black

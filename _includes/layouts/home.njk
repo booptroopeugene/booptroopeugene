@@ -3,4 +3,12 @@ layout: layouts/base.njk
 section: home
 ---
 
+<h2>Boop Troop Resources</h2>
+
+<h3>BoopTroop & BLM News</h3>
+
+{% set postslists = collections.post | slice(3) %}
+{% set postslist = postslists | first %}
+{% include "components/postslist.njk" %}
+
 {{ layoutContent | safe }}

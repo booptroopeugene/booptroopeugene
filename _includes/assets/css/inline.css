@@ -1,5 +1,5 @@
 :root {
-	--primary: rgb(87, 27, 143);
+	--primary: #222222;
 	--secondary: white;
 	--background: #000;
 }
@@ -33,12 +33,8 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
-	color: #eee;
-}
-
-main {
-	max-width: 37.5em;
+	/* background-color: var(--background); */
+	/* color: #eee; */
 }
 
 p,
@@ -50,6 +46,17 @@ code {
 a[href],
 a[href]:visited {
 	color: var(--primary);
+}
+
+.dark-section {
+	background: var(--background);
+	color: #eee;
+}
+
+.dark-section a[href],
+.dark-section a[href]:visited {
+		color: var(--secondary);
+	}	
 }
 
 a[href]:not(:hover) {
@@ -215,16 +222,20 @@ button {
 	}
 }
 
-.home-social-icons {
+.footer-social {
+}
+
+
+.footer-social-icons {
 	display: flex;
 	justify-content: space-between;
 }
 
-.home-social-icon {
+.footer-social-icon {
 	flex: 0 1 100px;
 	padding: 5px;
 }
-.home-social-icon img {
+.footer-social-icon img {
 	max-width: 100%;
 }
 
@@ -234,42 +245,41 @@ button {
 
 .site-header {
 	padding: 0 5%;
-	background-color: #161616;
+	background-color: var(--primary);
 }
 
 .header-image {
-	margin: 0 auto;
 	display: block;
-	max-width: 37.5em;
 	width: 95%;
+	margin: 0 auto;
 	border: 10px solid white;
 }
 
 .site-header .site-title {
 	margin: 10px auto;
-    max-width: 18.75em;
 }
 
 .site-header nav {
-    max-width: 37.5em;
-	margin: 0 auto;
 	font-weight: 700;
 }
 
-.site-main {
-	margin: 0 auto;
+.site-footer {
+	text-align: center;
+}
+.site-footer a {
+	color: #ccc;
+	font-weight: 600;
+	text-decoration: underline!important;
 }
 
-.site-footer {text-align: center;}
-
 .site-title a {
-	color: #fff;
+	color: var(--secondary);
     font-size: 1.5em;
     text-align: center;
     display: block;
 }
 .site-title a:visited {
-    color: #fff;
+    color: var(--secondary);
 }
 
 .site-header nav {
@@ -280,15 +290,18 @@ button {
 .purple-shadow,
 h1, h2,
 .site-header nav a:not([data-current]) {
-	color: #fff;
+	color: var(--secondary);
 }
 a.purple-shadow:visited {
-	color: #fff;
+	color: var(--secondary);
 	text-shadow: 0.1em 0.1em 0 var(--primary);
 }
 @media (min-width: 768px) {
 	.flex-768 {
 		display: flex;
+	}
+	.flex-768 > * {
+		flex: 1;
 	}
 }
 .boop-troop-resources {
@@ -306,8 +319,16 @@ a.purple-shadow:visited {
 }
 .btr-image {
 	width: 100%;
-	height: 0;
-	padding-bottom: 100%;
 	background-size: cover;
 	background-position: center;
+}
+@media (min-width: 768px) {
+	.btr-image {
+		margin-right: 20px;
+	}
+}
+
+.wrapper {
+	max-width: 750px;
+	margin: 0 auto;
 }

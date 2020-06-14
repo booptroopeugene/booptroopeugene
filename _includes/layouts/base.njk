@@ -10,13 +10,15 @@
 				<a class="purple-shadow" href="{{ '/' | url }}">{{ metadata.title }}</a>
 			</em>
 			{% if title == 'Home' %}
-				<img class="header-image" src="/static/img/zach-tre.jpg" alt="Zach and Tre marching with BLM and Boop Troop">
+				<div class="wrapper"><img class="header-image" src="/static/img/zach-tre.jpg" alt="Zach and Tre marching with BLM and Boop Troop"></div>
 			{% endif %}
 			{% include "components/nav.njk" %}
 		</header>
 
 		<main class="site-main">
-			{{ layoutContent | safe }}
+			<div class="wrapper">
+				{{ layoutContent | safe }}
+			</div>
 		</main>
 
 		{% include "components/footer.njk" %}
