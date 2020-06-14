@@ -1,6 +1,6 @@
 {
   "name": "booptroopeugene",
-  "version": "0.5",
+  "version": "0.0.5",
   "description": "Community driven #booptroopeugene website. 11ty + Netlify + NetlifyCMS.",
   "scripts": {
     "build": "npx eleventy",

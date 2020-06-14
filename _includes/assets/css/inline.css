@@ -208,11 +208,12 @@ button {
 }
 
 .site-header {
-    background-image: url(/static/img/tre-fist.jpg);
+    background-image: url(/static/img/zach-tre.jpg);
     height: 50vh;
 	background-size: 115%;
 	background-position: center top;
 	padding: 0 5%;
+	background-color: #161616;
 }
 
 .site-header .site-title {
