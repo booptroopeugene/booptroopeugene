@@ -12,7 +12,9 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	/* font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; */
+	font-family: 'Playfair Display', serif;
+	font-size: 16pt;
 }
 
 body {
@@ -77,10 +79,20 @@ pre {
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
-	font-size: 2em;
+	font-size: 1.2em;
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
+}
+@media (min-width: 600) {
+	header > em {
+		font-size: 1.5em;
+	}	
+}
+@media (min-width: 768px) {
+	header > em {
+		font-size: 2em;
+	}	
 }
 
 /* Header Nav */
@@ -197,7 +209,7 @@ button {
 }
 
 .home-social-icon {
-	flex: 0 0 100px;
+	flex: 0 1 100px;
 }
 .home-social-icon img {
 	max-width: 100%;
@@ -208,12 +220,16 @@ button {
 }
 
 .site-header {
-    background-image: url(/static/img/zach-tre.jpg);
-    height: 50vh;
-	background-size: 115%;
-	background-position: center top;
 	padding: 0 5%;
 	background-color: #161616;
+}
+
+.header-image {
+	margin: 0 auto;
+	display: block;
+	max-width: 37.5em;
+	width: 95%;
+	border: 10px solid white;
 }
 
 .site-header .site-title {
@@ -233,13 +249,48 @@ button {
 
 .site-footer {text-align: center;}
 
+.site-title a {
+    font-size: 1.5em;
+    text-align: center;
+    display: block;
+}
+
+.site-header nav {
+	text-align: center;
+	
+}
+
 .purple-shadow,
 h1, h2,
 .site-header nav a:not([data-current]) {
 	color: #fff;
-	text-shadow: 0.1em 0.1em 0 var(--primary);
 }
 a.purple-shadow:visited {
 	color: #fff;
 	text-shadow: 0.1em 0.1em 0 var(--primary);
+}
+@media (min-width: 768px) {
+	.flex-768 {
+		display: flex;
+	}
+}
+.boop-troop-resources {
+	max-width: 100%;
+}
+.boop-troop-resource {
+	flex: 1;
+	padding: 20px;
+}
+.boop-troop-resource img {
+	max-width: 100%;
+}
+.boop-troop-resource h3 {
+	min-height: 3em;
+}
+.btr-image {
+	width: 100%;
+	height: 0;
+	padding-bottom: 100%;
+	background-size: cover;
+	background-position: center;
 }

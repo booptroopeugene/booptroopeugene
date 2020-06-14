@@ -9,6 +9,9 @@
 			<em class="site-title">
 				<a class="purple-shadow" href="{{ '/' | url }}">{{ metadata.title }}</a>
 			</em>
+			{% if title == 'Home' %}
+				<img class="header-image" src="/static/img/zach-tre.jpg" alt="Zach and Tre marching with BLM and Boop Troop">
+			{% endif %}
 			{% include "components/nav.njk" %}
 		</header>
 
