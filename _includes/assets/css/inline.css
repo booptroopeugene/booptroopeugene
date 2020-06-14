@@ -16,13 +16,13 @@ body {
 	font-family: 'Playfair Display', serif;
 	font-size: 12pt;
 }
-@media (min-width: 350px) {
+@media (min-width: 375px) {
 	html,
 	body {
 		font-size: 14pt;	
 	}
 }
-@media (min-width: 375px) {
+@media (min-width: 420px) {
 	html,
 	body {
 		font-size: 16pt;	
