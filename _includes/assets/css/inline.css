@@ -287,6 +287,12 @@ button {
 	
 }
 
+.site-main img {
+    max-width: 100%;
+    margin: 5px auto;
+    display: block;
+}
+
 .purple-shadow,
 h1, h2,
 .site-header nav a:not([data-current]) {
