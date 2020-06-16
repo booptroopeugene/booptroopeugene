@@ -1,5 +1,5 @@
 ---
-title: "BoopTroop’s Discord Creative Limelight: killagram91"
+title: "BoopTroop’s Discord Creative Limelight - killagram91"
 date: 2020-06-14T01:35:36.624Z
 author: Boop Troop Eugene
 summary: Discord thoughts from user killagram91!

@@ -1,11 +1,11 @@
 ---
-title: "BoopTroop’s Discord Creative Limelight: killagram91 #2"
+title: "BoopTroop’s Discord Creative Limelight - killagram91 #2"
 date: 2020-06-16T01:37:14.517Z
 author: Boop Troop Eugene
 summary: More Discord musings from killagram91
 tags:
   - post
-  - Tags:black lives matter poetry
+  - black lives matter poetry
   - blm poems
   - blm poetry
   - community poems
