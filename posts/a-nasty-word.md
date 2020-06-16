@@ -8,6 +8,25 @@ summary: |-
   One I’ve since heard far too many times spoken in ignorance.
 tags:
   - post
+  - Posted inCreative Writing
+  - PoetryTags:Black Lives Matter
+  - black lives matter poetry
+  - blm poems
+  - blm poetry
+  - BoopTroopEugene Staff Contributions
+  - community poems
+  - Creative Writing
+  - Emotion
+  - Empathy
+  - Enlightenment
+  - Eugene poets
+  - oregon poets
+  - Pain
+  - Poems
+  - Poetry
+  - poets
+  - Racism
+  - ""
 ---
 A Nasty Word:
 So long ago I heard a word.
