@@ -45,7 +45,7 @@ If you need any help with setting up Netlify CMS, you can reach out to the Netli
 ### 1. Clone this repository:
 
 ```
-git clone https://github.com/kylegrover/booptroopeugene.git
+git clone https://github.com/booptroopeugene/booptroopeugene.git
 ```
 
 
@@ -66,11 +66,6 @@ npm install @11ty/eleventy
 ### 4. Run Eleventy (builds the site)
 
 ```
-npx @11ty/eleventy
-```
-
-Or build automatically when a template changes:
-```
 npx @11ty/eleventy --watch
 ```
 
@@ -79,8 +74,12 @@ Or in debug mode:
 DEBUG=* npx @11ty/eleventy
 ```
 
+## Local Dev & Git Workflow 
+
+With `npx eleventy --watch` running, open [localhost:8080](localhost:8080) to view your changes updated on the fly. Create a branch for your work, make your changes, and then submit a pull request for Kyle to review and merge into the live site.
+
 ## Bug reports, feature requests, etc
 
-This is an ongoing project and I welcome contributions and suggestions! Feel free to submit a PR.
+This is an ongoing project and contributions and suggestions are welcome! Feel free to add to the discussion in our discord #website-requests channel, open an issue on GitHub, or submit a PR.
 
 If you need any help with setting up Netlify CMS, you can reach out to the Netlify team in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).
