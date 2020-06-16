@@ -294,7 +294,6 @@ button {
 }
 
 .purple-shadow,
-h1, h2,
 .site-header nav a:not([data-current]) {
 	color: var(--secondary);
 }
