@@ -1,6 +1,6 @@
 ---
 title: Black Lives Matter Protests in Eugene Birth Rise of Local Citizen Journalists
-date: 2020-06-16T01:24:47.521Z
+date: 2020-06-14T01:24:47.521Z
 author: Sai Marie Johnson
 summary: In the wake of the George Floyd murder by Officer Derek Chauvain, there
   have been countless protests. There have been riots – there have been tears
