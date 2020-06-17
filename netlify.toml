@@ -11,11 +11,6 @@
 #  from = "/*"
 #  to = "/blog/:splat"
 
-[[redirects]]
-  from = "/blog/"
-  to = "https://booptroopeugene.wordpress.com/"
-  status = 302
-
 # The default HTTP status code is 301, but you can define a different one e.g.
 # status = 302
 
