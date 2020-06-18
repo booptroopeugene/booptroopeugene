@@ -3,7 +3,13 @@
   <ul>
   {%- for entry in navPages %}
     <li>
-      <a href="{{ "https://booptroopeugene.wordpress.com/" if entry.title == "Blog" else entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
+      <a href=
+      "{{ "https://booptroopeugene.wordpress.com/" if entry.title == "Blog" else entry.url | url }}"
+        {% if entry.url == page.url %} data-current="current item"{% endif %}
+        {% if entry.title == "Blog" %} target="_blank"{% endif %}
+        >
+        {{ entry.title }}
+      </a>
     </li>
   {%- endfor %}
   </ul>
