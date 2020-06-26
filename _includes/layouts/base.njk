@@ -1,28 +1,48 @@
 <!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+<html {% if section %} data-current="{{ section }}" {% endif %} lang="en">
 
-	{% include "components/head.njk" %}
+    {% include "components/head.njk" %}
 
-	<body>
+    <body>
 
-		<header class="site-header">
-			<em class="site-title">
-				<a class="purple-shadow" href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% if title == 'Home' %}
-				<div class="wrapper"><img class="header-image" src="/static/img/zach-tre.jpg" alt="Zach and Tre marching with BLM and Boop Troop"></div>
-			{% endif %}
-			{% include "components/nav.njk" %}
-		</header>
+        <header class="site-header">
+            <div class="nav-wrapper">
+                <h1 class="site-title">
+                    <a href="{{ '/' | url }}">{{ metadata.title }}</a>
+                </h1>
+                {% include "components/nav.njk" %}
+            </div>
+            
+            {% if title == 'Home' %}
+                <div class="hero-wrapper">
+                    <div class="hero-image" style="background-image: url(/static/img/hero.jpg)"></div>
+                    <div class="hero-logo" style="background-image: url(/static/img/bte-logo-darkbg.svg)"></div>
+                </div>
+            {% endif %}
 
-		<main class="site-main">
-			<div class="wrapper">
-				{{ layoutContent | safe }}
-			</div>
-		</main>
+        </header>
 
-		{% include "components/footer.njk" %}
+        <main class="site-main">
+            <div class="wrapper">
+                <div class="main-col">
+                    {{ layoutContent | safe }}
+                </div>
+                <div class="sec-col">
+                    {% if title == 'Home' %}
+                        {% include "components/featured-blog.njk" %}
+                    {% endif %}
+                    {% if title == 'What The Heck Is A Boop Troop?' %}
+                        <div class="column-logo" style="background-image: url(/static/img/bte-logo-simple.svg)"></div>
+                    {% endif %}
+                    {% if title == 'Get in touch' %}
+                        <div class="column-logo" style="background-image: url(/static/img/bte-logo-simple.svg)"></div>
+                    {% endif %}
+                </div>
+            </div>
+        </main>
 
-	</body>
+        {% include "components/footer.njk" %}
+
+    </body>
 
 </html>

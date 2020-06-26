@@ -66,7 +66,7 @@ npm install @11ty/eleventy
 ### 4. Run Eleventy (builds the site)
 
 ```
-npx @11ty/eleventy --watch
+npx @11ty/eleventy --serve
 ```
 
 Or in debug mode:
@@ -76,7 +76,7 @@ DEBUG=* npx @11ty/eleventy
 
 ## Local Dev & Git Workflow 
 
-With `npx eleventy --watch` running, open [localhost:8080](localhost:8080) to view your changes updated on the fly. Create a branch for your work, make your changes, and then submit a pull request for Kyle to review and merge into the live site.
+With `npx eleventy --serve` running, open [localhost:8080](localhost:8080) to view your changes updated on the fly. Create a branch for your work, make your changes, and then submit a pull request for Kyle to review and merge into the live site.
 
 ## Bug reports, feature requests, etc
 
