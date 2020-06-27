@@ -65,9 +65,7 @@
         lazyFetching: false,
 
         eventClick: function (arg) {
-          // opens events in a popup window
           window.open(arg.event.url, '_blank', 'width=700,height=600');
-          // prevents current tab from navigating
           arg
             .jsEvent
             .preventDefault();
@@ -75,9 +73,7 @@
 
       });
       calendar.render();
-      calendar.destroy();
-      calendar.render();
-
+      calendar.refetchEvents();
     });
   </script>
   <script>
