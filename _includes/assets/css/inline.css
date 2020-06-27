@@ -172,13 +172,13 @@ header nav li a[data-current="current item"] {
 
 /* Hero block */
 .hero-wrapper {
-	height: 65vh;
+	height: 500px;
 	max-width: 100%;
 	position: relative;
 }
 @media (max-width: 768px) {
 	.hero-wrapper {
-		height:35vh;
+		height: 260px;
 	}
 }
 
@@ -202,7 +202,7 @@ header nav li a[data-current="current item"] {
 }
 
 .hero-logo {
-	background-size: 340px;
+	background-size: 300px;
 	background-position: center;
 	background-repeat: no-repeat;
 	width: 100%;
