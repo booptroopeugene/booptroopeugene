@@ -68,12 +68,26 @@ module.exports = function(eleventyConfig) {
   });
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPassthroughCopy("netlify.toml");
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
+  // don't process favicons
+  eleventyConfig.addPassthroughCopy("favicon.ico");
+  eleventyConfig.addPassthroughCopy("android-chrome-192x192.png");
+  eleventyConfig.addPassthroughCopy("android-chrome-512x512.png");
+  eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
+  eleventyConfig.addPassthroughCopy("browserconfig.xml");
+  eleventyConfig.addPassthroughCopy("favicon-16x16.png");
+  eleventyConfig.addPassthroughCopy("favicon-32x32.png");
+  eleventyConfig.addPassthroughCopy("mstile-70x70.png");
+  eleventyConfig.addPassthroughCopy("mstile-144x144.png");
+  eleventyConfig.addPassthroughCopy("mstile-150x150.png");
+  eleventyConfig.addPassthroughCopy("mstile-310x150.png");
+  eleventyConfig.addPassthroughCopy("mstile-310x310.png");
+  eleventyConfig.addPassthroughCopy("safari-pinned-tab.svg");
+  eleventyConfig.addPassthroughCopy("site.webmanifest");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
