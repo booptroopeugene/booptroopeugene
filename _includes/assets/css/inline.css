@@ -14,29 +14,14 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	/* font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; */
 	font-family: 'Open Sans', sans-serif;
-	font-size: 16pt;
+	font-size: 18px;
 }
-/* @media (min-width: 375px) {
-	html,
-	body {
-		font-size: 14pt;	
-	}
-}
-@media (min-width: 420px) {
-	html,
-	body {
-		font-size: 16pt;	
-	}
-} */
 
 body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	/* background-color: var(--background); */
-	/* color: #eee; */
 }
 
 p,
@@ -49,13 +34,31 @@ a {
 	color: var(--accent);
 }
 
-h1, h2, h3, h4, h5, h6 {
-	font-family: var(--headline-font);
-	line-height: 1.1em;
+
+p {margin-bottom: 1.15rem;}
+
+h1, h2, h3, h4, h5 {
+  margin: 2.75rem 0 1.05rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -.02em;
 }
-h2 {
-	margin-top: 2em;
+
+h1 {
+  margin-top: 0;
+  font-size: 2.488em;
 }
+
+h2 {font-size: 2.074em;}
+
+h3 {font-size: 1.728em;}
+
+h4 {font-size: 1.44em;}
+
+h5 {font-size: 1.2em;}
+
+small, .text_small {font-size: 0.833em;}
 
 .dark-section {
 	background: var(--background);
@@ -107,7 +110,7 @@ pre {
 
 .site-title {
 	display: block;
-	font-size: 20pt;
+	font-size: 1.4em;
 	padding: 0;
 	margin: 0;
 	margin-top: -10px;
@@ -116,10 +119,15 @@ pre {
 @media (max-width: 768px) {
 	.nav-wrapper {
 		flex-direction: column;
-		height: 120px;
 	}
 	.site-title {
-		font-size: 18pt;
+		margin-bottom: 1em;
+	}
+}
+
+@media (max-width: 480px) {
+	.site-title {
+		font-size: 1em;
 	}
 }
 
@@ -129,6 +137,7 @@ header nav ul {
 	margin: 0;
 	list-style: none;
 	font-family: var(--headline-font);
+	font-size: 1.4em;
 	text-transform: uppercase;
 }
 
@@ -154,15 +163,9 @@ header nav li a[data-current="current item"] {
 	color: var(--primary);
 }
 
-@media (max-width: 768px) {
-	header nav li a {
-		padding: .125em .25em;
-		font-size: 14pt;
-	}
-}
-@media (max-width: 400px) {
-	header nav li {
-		margin: 0 .125em;
+@media (max-width: 480px) {
+	header nav ul {
+		font-size: 1em;
 	}
 }
 	
@@ -175,23 +178,31 @@ header nav li a[data-current="current item"] {
 }
 @media (max-width: 768px) {
 	.hero-wrapper {
-		height:40vh;
+		height:35vh;
 	}
 }
 
 .hero-image {
-	background-size: cover;
-	background-position: center;
+	background-size: 120%;
+	background-position: 20% 50%;
 	height: 100%;
 }
-@media (max-width: 480px) {
+@media (min-width: 1400px) {
+	.hero-image {
+		background-size: 100%;
+		background-position: 30% 50%;
+	}
+}
+@media (max-width: 768px) {
 	.hero-image {
 		background-size: 150%;
+		background-position: 40% 50%;
+
 	}
 }
 
 .hero-logo {
-	background-size: 20%;
+	background-size: 340px;
 	background-position: center;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -201,10 +212,11 @@ header nav li a[data-current="current item"] {
 }
 @media (max-width: 768px) {
 	.hero-logo {
-		background-size: 25%;
+		background-size: 200px;
 	}
 }
-@media (max-width: 480px) {
+
+@media (max-width: 768px) {
 	.hero-logo {
 		background-size: 150px;
 	}
@@ -215,7 +227,7 @@ header nav li a[data-current="current item"] {
 .wrapper {
 	max-width: 1200px;
 	margin: 0 auto;
-	padding: 2em 1em;
+	padding: 3em 1em 4em 1em;
 	display: flex;
 	justify-content: space-between;
 }
@@ -424,9 +436,10 @@ a.purple-shadow:visited {
 
 /* Featured Blog posts on home page */
 .fb-title {
-	font-size: 1em;
-	line-height: 1.2em;
+	font-size: 1.44em;
+	line-height: 1.1em;
 	font-family: var(--headline-font);
+	margin-top: 1em;
 	margin-bottom: .75em;
 }
 .fb-byline {
@@ -435,7 +448,6 @@ a.purple-shadow:visited {
 	margin-bottom: .5em;
 }
 .fb-content {
-	font-size: 16px;
 	display: -webkit-box;
   	-webkit-line-clamp: 5;
 	-webkit-box-orient: vertical;  
@@ -444,9 +456,7 @@ a.purple-shadow:visited {
 
 .fb-link {
 	display: block;
-	font-size: 16px;
 	margin-top: .25em;
-	margin-bottom: 2em;
 }
 
 
@@ -454,8 +464,20 @@ a.purple-shadow:visited {
 .fc-list-heading-main, .fc-list-heading-alt {
 	font-family: var(--headline-font);
 }
+.fc-list-item {
+	display: flex;
+}
+.fc-list-item-time {
+	width: 30% !important;
+	order: 3;
+	text-align: right;
+	white-space: break-spaces !important;
+}
+.fc-list-item-marker {
+	width: 10px !important;
+}
 .fc-list-item-title {
-	font-size: 18px;
+	width: calc(65% - 16px);
 }
 .fc-event-dot {
 	background-color: var(--accent) !important;

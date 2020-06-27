@@ -45,18 +45,12 @@
             }
           }
         },
-
-        displayEventTime: false, // don't show the time column in list view
-
         googleCalendarApiKey: 'AIzaSyDohWOUIvZBxO89GJ9qqpRAf3xjxhLS2HM',
-
         events: 'ohmdb20qqvfkk9gj53tgi73stk@group.calendar.google.com',
 
         eventClick: function (arg) {
-
           // opens events in a popup window
           window.open(arg.event.url, '_blank', 'width=700,height=600');
-
           // prevents current tab from navigating
           arg
             .jsEvent
