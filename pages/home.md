@@ -10,7 +10,7 @@ eleventyNavigation:
 
 
 ## #BLM Protests and Events Calendar
-<!-- <div class="btr-image" style="background-image: url('/static/img/blm-kids.jpg');"></div> -->
+<p>Black Lives Matter protests and community events in the Eugene, Springfield Area.<br> Please <a href="/contact/">contact us</a> to let us know about your protest or event.</p>
+<div id="calendar" class="fc fc-ltr fc-unthemed" style="margin: 16px 0 0 0;"></div>
+<div class="cal-sub-btn"><a href="https://calendar.google.com/calendar?cid=b2htZGIyMHFxdmZrazlnajUzdGdpNzNzdGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Subscribe to calendar</a></div>
 <div>Click on the name of the event to see more details. All links in event details are public posts, you don't have to be logged in to view. <br>For pasts events see the <a href="https://calendar.google.com/calendar/embed?src=ohmdb20qqvfkk9gj53tgi73stk%40group.calendar.google.com&ctz=America%2FLos_Angeles" target="_blank">full calendar</a>.</div>
-<div id="calendar" class="fc fc-ltr fc-unthemed" style="margin: 16px 0;"></div>
-<div>Black Lives Matter protests and community events in the Eugene, Springfield Area.<br> <a href="/contact/">Click here</a> to let us know about your protest!</div>

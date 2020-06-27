@@ -483,6 +483,13 @@ a.purple-shadow:visited {
 	background-color: var(--accent) !important;
 	margin-bottom: 4px;
 }
+.cal-sub-btn {
+	padding: .5em 1em;
+	text-align: center;
+	border: 1px solid #ddd;
+	border-top: none;
+	margin-bottom: .8em;
+}
 
 /* About page logo */
 .column-logo {
