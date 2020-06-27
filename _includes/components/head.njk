@@ -56,11 +56,11 @@
             }
           }
         },
-        googleCalendarApiKey: 'AIzaSyDohWOUIvZBxO89GJ9qqpRAf3xjxhLS2HM',
         eventSources: [{
-           url: 'ohmdb20qqvfkk9gj53tgi73stk@group.calendar.google.com',
-           type: 'POST',
-           cache: false
+            url: 'ohmdb20qqvfkk9gj53tgi73stk@group.calendar.google.com',
+            googleCalendarApiKey: 'AIzaSyDohWOUIvZBxO89GJ9qqpRAf3xjxhLS2HM',
+            type: 'POST',
+            cache: false
         }],
         lazyFetching: false,
 
@@ -75,6 +75,9 @@
 
       });
       calendar.render();
+      calendar.destroy();
+      calendar.render();
+
     });
   </script>
   <script>
