@@ -33,44 +33,6 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-169300658-1"></script>
 
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.2.0/core/main.min.css" rel="stylesheet">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.2.0/list/main.min.css" rel="stylesheet">
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.2.0/core/main.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.2.0/list/main.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.2.0/google-calendar/main.min.js"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      var calendarEl = document.getElementById('calendar');
-
-      var calendar = new FullCalendar.Calendar(calendarEl, {
-        plugins: [
-          'list', 'googleCalendar'
-        ],
-        defaultView: 'listWeek',
-        header: false,
-        views: {
-          list: {
-            duration: {
-              days: 90
-            }
-          }
-        },
-        googleCalendarApiKey: 'AIzaSyBvpMS3KwYaQ1YGVk7nxL9GWuU8Cp1td7g',
-        events: {
-          googleCalendarId: 'ohmdb20qqvfkk9gj53tgi73stk@group.calendar.google.com'
-        },
-        eventClick: function (arg) {
-          window.open(arg.event.url, '_blank', 'width=700,height=600');
-          arg
-            .jsEvent
-            .preventDefault();
-        }
-
-      });
-      calendar.render();
-    });
-  </script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() {
