@@ -40,20 +40,6 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.2.0/list/main.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/4.2.0/google-calendar/main.min.js"></script>
   <script>
-    function clear_all() {
-      localStorage.clear();
-      sessionStorage.clear();
-      var cookies = document.cookie;
-      for (var i = 0; i < cookies.split(";").length; ++i)
-        {
-            var myCookie = cookies[i];
-            var pos = myCookie.indexOf("=");
-            var name = pos > -1 ? myCookie.substr(0, pos) : myCookie;
-            document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
-        }
-    }
-    clear_all();
-    
     document.addEventListener('DOMContentLoaded', function () {
       var calendarEl = document.getElementById('calendar');
 
