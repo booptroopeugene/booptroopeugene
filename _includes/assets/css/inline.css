@@ -4,6 +4,7 @@
 	--accent: #ee0033;
 	--background: #000;
 	--headline-font: 'Oswald', sans-serif;
+	--site-width: 1200px;
 }
 
 *, *:before, *:after {
@@ -60,6 +61,8 @@ h5 {font-size: 1.2em;}
 
 small, .text_small {font-size: 0.833em;}
 
+strong {font-weight: 700;}
+
 .dark-section {
 	background: var(--background);
 	color: #eee;
@@ -100,7 +103,7 @@ pre {
 
 /* Header */
 .nav-wrapper {
-	max-width: 1200px;
+	max-width: var(--site-width);
 	margin: 0 auto;
 	padding: 1em;
 	display: flex;
@@ -225,7 +228,7 @@ header nav li a[data-current="current item"] {
 
 /* Wrapper layout */
 .wrapper {
-	max-width: 1200px;
+	max-width: var(--site-width);
 	margin: 0 auto;
 	padding: 3em 1em 4em 1em;
 	display: flex;
@@ -458,6 +461,27 @@ a.purple-shadow:visited {
 	display: block;
 	margin-top: .25em;
 }
+
+/* Promotional Banner */
+.promo-banner-container {
+	background-color: var(--accent);
+}
+.promo-banner {
+	max-width: var(--site-width);
+	display: flex;
+	justify-content: space-between;
+	padding: .5em 1em;
+	margin: 0 auto;
+}
+.promo-text {
+	color: var(--secondary);
+}
+
+.promo-text a {
+	color: var(--secondary);
+	font-weight: 700;
+}
+
 
 /* About page logo */
 .column-logo {

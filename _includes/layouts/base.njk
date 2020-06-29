@@ -23,6 +23,9 @@
         </header>
 
         <main class="site-main">
+            {% if title == 'Home' %}
+                {% include "components/promo-banner-presspass.njk" %}
+            {% endif %}
             <div class="wrapper">
                 <div class="main-col">
                     {{ layoutContent | safe }}
