@@ -1,6 +1,6 @@
 ---
 title: "#JusticeforIsiah lyrics + link for legal observers"
-date: 2020-07-04T21:19:43.130Z
+date: 2020-06-29T20:21:00.000Z
 author: Boop Troop Eugene
 summary: The following lyrics are an expression of the raw emotion of a day on
   which witnesses saw children overtly threatened. A black father, whose young
