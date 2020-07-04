@@ -5,27 +5,13 @@ author: Boop Troop Eugene
 summary: More Discord musings from killagram91
 tags:
   - post
-  - black lives matter poetry
-  - blm poems
-  - blm poetry
-  - community poems
-  - Creative Writing
-  - enlightening poetry
+  - prose & poetry
   - eugene
-  - Eugene Oregon
-  - Eugene poets
-  - killagram91 contributions
-  - oregon poets
-  - Poems
-  - Poetry
-  - poets
+  - killagram91
   - rebuild the community
   - social issues poetry
 ---
-From user killagram91! ©
-June 1, 2020
-
-I ain’t who I used to be
+"I ain’t who I used to be
 
 Greasing these bars fluently
 
@@ -49,4 +35,6 @@ Trying to fulfill my role and identity
 
 And time keeps going With no slowing down It’s time to march forth
 
-And renew the whole town
+And renew the whole town"
+
+@killagram91! - June 1, 2020

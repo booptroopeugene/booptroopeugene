@@ -6,7 +6,7 @@ summary: "Places and organizations to keep your eye on to support local Black
   Lives Matter events. "
 tags:
   - post
-  - black lives matter
+  - blm
   - organizations
   - grassroots
   - protesting

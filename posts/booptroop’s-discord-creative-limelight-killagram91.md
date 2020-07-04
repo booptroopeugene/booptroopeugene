@@ -5,25 +5,16 @@ author: Boop Troop Eugene
 summary: Discord thoughts from user killagram91!
 tags:
   - post
-  - art
-  - Black Lives Matter
-  - black lives matter poetry
+  - prose & poetry
   - challenging the system
   - fourtwenty
-  - killagram91 contributions
-  - oregon poets
-  - Poems
-  - Poetry
-  - poets
+  - killagram91
   - police misconduct
   - smoking
   - voices of the community
 ---
-From user killagram91! ©
 
-June 1, 2020
-
-I be smokin this spliff
+"I be smokin this spliff
 
 Smoke floatin by
 
@@ -51,4 +42,6 @@ Zoning status
 
 Red line the whole city I’m not burnin nothin
 
-Except this squad car
+Except this squad car"
+
+@killagram91! - June 1, 2020

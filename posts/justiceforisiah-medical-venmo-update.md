@@ -1,7 +1,7 @@
 ---
 title: "#JusticeforIsiah Medical Venmo, Update"
 date: 2020-06-29T21:14:55.011Z
-author: Boop Troop Eugene
+author: remysaverem
 summary: "#JusticeforIsiah echoed throughout downtown Eugene tonight as hundreds
   of peaceful demonstrators circled the jail where the white male who
   perpetrated a vicious vehicular assault hate crime at a peaceful Black_Unity
@@ -10,7 +10,7 @@ tags:
   - post
   - breaking news
   - editorials
-  - Eugene
+  - eugene
   - issues
 ---
 \#JusticeforIsiah echoed throughout downtown Eugene tonight as hundreds of peaceful demonstrators circled the jail where the white male who perpetrated a vicious vehicular assault hate crime at a peaceful Black_Unity event was due to have been incarcerated. Yet the driver, whom multiple witnesses have repeatedly testified in live media aggressively tried to mow into peaceful participants in a KIDS’ MARCH, mostly kids under the age of 8, and who sped up to 15-20 miles per hour to hit their protector, Black_Unity activist Isiah Wagoner, was reportedly only detained briefly, then released and provided with a Springfield Police escort to Springfield (Oregon, USA).

@@ -8,26 +8,20 @@ summary: "While two events were occurring an unknown group took the opportunity
 tags:
   - post
   - activism
-  - articles
   - awareness
-  - BIPOC Liberation Collective
-  - BLAC
-  - Black Lives Matter
+  - bipoc liberation collective
+  - blac
+  - blm
   - black_unity
-  - BLM
   - breaking news
-  - Citizen Journalism
-  - civil defiance
+  - citizen journalism
   - civil disobedience
   - damages
   - eugene
-  - Eugene Oregon
-  - Eugene Protests
-  - Eugene Stand Up
+  - eugene protests
   - isiah wagoner
   - johnson hall u of o campus
   - local news
-  - Racism
   - riot acts
   - social issues
   - university of oregon
@@ -38,13 +32,15 @@ As we grow closer to the Juneteenth Celebration planned in Eugene, the Black Liv
 June 13, 2020 there were two events occurring concurrently; one at Deady Hall by BIPOC Liberation Collective and the other at Alton Baker Park hosted by Black_Unity.
 
 
-<!-- Photo Credit Eugene Weekly © 2020 -->
+<!-- Photo Credit Eugene Weekly © 2020
+ -->
 
 
 While these two events were occurring an unknown group took the opportunity to topple two prominent statues on the University of Oregon campus – The Pioneer Father and the Pioneer Mother. According to reports, the statue of the Pioneer Father was then drug to the steps of Johnson Hall.
 
 
-<!-- Photo Credit Eugene Weekly © 2020 -->
+<!-- Photo Credit Eugene Weekly © 2020
+ -->
 
 
 It is still unknown what person(s) or group(s) are responsible for the toppling of the statues at this time and sources tell BoopTroopEugene that both Black_Unity and BIPOC Liberation Collective have denounced this event and continue to follow the motto to “disrupt not destroy.”

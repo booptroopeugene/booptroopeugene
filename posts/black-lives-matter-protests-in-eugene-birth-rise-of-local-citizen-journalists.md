@@ -7,20 +7,20 @@ summary: In the wake of the George Floyd murder by Officer Derek Chauvain, there
   shed, glass shattered, but through it something stronger has risen. Something
   beautiful and so American that it deserves some much-needed recognition.
 tags:
-  - postblack_unity
-  - BLM
+  - post
+  - black_unity
+  - blm
   - breonna taylor
   - clea ibrahim
   - eugene
-  - Eugene Oregon
   - george floyd
   - i cant breathe
   - police intimidation
   - police misconduct
-  - Protesting
+  - protesting
   - public outcry
   - say their names
-  - Tre Stewart
+  - tre stewart
 ---
 In the wake of the George Floyd murder by Officer Derek Chauvain, there have been countless protests. There have been riots – there have been tears shed, glass shattered, but through it something stronger has risen. Something beautiful and so American that it deserves some much-needed recognition.
 

@@ -1,5 +1,5 @@
 ---
 name: Sai Marie Johnson
-email: saimariajohnson@booptroopeugene.com
+email: saimariejohnson@booptroopeugene.com
 # github: https://github.com/notjohndoe
 ---

@@ -8,21 +8,8 @@ summary: |-
   To get rid of the crooked ass police.
 tags:
   - post
-  - black lives matter poetry
-  - blm poems
-  - blm poetry
-  - BoopTroopEugene Staff Contributions
-  - community poems
-  - enlightening poetry
-  - Eugene Oregon
-  - Eugene poets
-  - oregon
-  - oregon poets
-  - Poems
-  - Poetry
-  - poets
-  - Sai Marie Johnson
-  - social issues poetry
+  - prose & poetry
+  - eugene
 ---
 We take to the streets
 
