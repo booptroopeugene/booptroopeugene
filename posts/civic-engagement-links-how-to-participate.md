@@ -1,6 +1,6 @@
 ---
 title: "Civic Engagement Links: How to Participate"
-date: 2020-07-04T21:47:24.869Z
+date: 2020-06-23T21:47:24.869Z
 author: remysaverem
 summary: >-
   Boop Troop Eugene News strongly encourages public engagement in civic
