@@ -1,6 +1,6 @@
 ---
 title: "Canvas for Catharsis: BLM Art in PDX"
-date: 2020-07-04T21:44:48.231Z
+date: 2020-06-24T21:44:48.231Z
 author: remysaverem
 summary: >-
   A canvas for catharsis has emerged at Pioneer Square in downtown Portland,
