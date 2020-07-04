@@ -1,7 +1,7 @@
 ---
 title: "EMERGENCY: HIT-&-RUN HATE CRIME AT KIDS’ MARCH. COMMUNITY, NOT COPS,
   FOUND THE PERP. #JusticeForIsiah"
-date: 2020-07-04T21:35:37.172Z
+date: 2020-06-28T21:35:37.172Z
 author: remysaverem
 summary: The driver of this Subaru, at 15 to 20 miles an hour, deliberately
   drove into Black_Unity organizer, Isiah Wagoner, so hard that his body spun
