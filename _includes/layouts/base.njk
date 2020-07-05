@@ -28,14 +28,10 @@
                     {{ layoutContent | safe }}
                 </div>
                 <div class="sec-col">
-                    {% if title == 'Home' %}
+                    {% if title == 'What The Heck Is A Boop Troop?' or title == 'Get in touch' %}
+                        <div class="column-logo" style="background-image: url(/static/img/bte-logo-simple.svg)"></div>
+                    {% else %}
                         {% include "components/featured-blog.njk" %}
-                    {% endif %}
-                    {% if title == 'What The Heck Is A Boop Troop?' %}
-                        <div class="column-logo" style="background-image: url(/static/img/bte-logo-simple.svg)"></div>
-                    {% endif %}
-                    {% if title == 'Get in touch' %}
-                        <div class="column-logo" style="background-image: url(/static/img/bte-logo-simple.svg)"></div>
                     {% endif %}
                 </div>
             </div>
