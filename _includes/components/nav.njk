@@ -2,16 +2,14 @@
   {% set navPages = collections.all | eleventyNavigation %}
   <ul>
   {%- for entry in navPages %}
-    {% if entry.title != "Blog" %}
-      <li>
-        <a href="{{ entry.url | url }}"
-          {% if entry.url == page.url %} data-current="current item"{% endif %}
-          {% if entry.title == "Blog" %} target="_blank"{% endif %}
-          >
-          {{ entry.title }}
-        </a>
-      </li>
-    {%- endif %}
+    <li>
+      <a href="{{ entry.url | url }}"
+        {% if entry.url == page.url %} data-current="current item"{% endif %}
+        {% if entry.title == "Blog" %} target="_blank"{% endif %}
+        >
+        {{ entry.title }}
+      </a>
+    </li>
   {%- endfor %}
   </ul>
 </nav>
