@@ -5,7 +5,6 @@
     <li>
       <a href="{{ entry.url | url }}"
         {% if entry.url == page.url %} data-current="current item"{% endif %}
-        {% if entry.title == "Blog" %} target="_blank"{% endif %}
         >
         {{ entry.title }}
       </a>
