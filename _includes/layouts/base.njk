@@ -28,18 +28,17 @@
                     {{ layoutContent | safe }}
                 </div>
                 <div class="sec-col">
-                    {% if title == 'Home' %}
+                    {% if title == 'What The Heck Is A Boop Troop?' or title == 'Get in touch' %}
+                        <div class="column-logo" style="background-image: url(/static/img/bte-logo-simple.svg)"></div>
+                    {% else %}
+                        {% if title != 'Blog' %}
+                            {% include "components/featured-blog.njk" %}
+                        {% endif %}
                         <h2>BoopTroop! Discord Community</h2>
                         <div class="discord-block">
                             <div class="btr-image" style="background-image: url('/static/img/eugene-day-3.jpg');"></div>
                             <div>Moderated text and voice chat.  Hang out with BIPOC and Allies in the area, see what you can do to help, get notified of the live streams.<br><a href="https://discord.gg/Spc636f">Join Our Discord</a></div>
                         </div>
-                    {% endif %}
-                    {% if title == 'What The Heck Is A Boop Troop?' %}
-                        <div class="column-logo" style="background-image: url(/static/img/bte-logo-simple.svg)"></div>
-                    {% endif %}
-                    {% if title == 'Get in touch' %}
-                        <div class="column-logo" style="background-image: url(/static/img/bte-logo-simple.svg)"></div>
                     {% endif %}
                 </div>
             </div>
