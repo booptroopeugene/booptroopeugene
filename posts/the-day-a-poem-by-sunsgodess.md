@@ -2,7 +2,7 @@
 title: The Day - a poem by sunsgodess
 date: 2020-06-23T23:04:47.950Z
 author: Boop Troop Eugene
-summary: "- Guest poem for BTE by @sunsgodess"
+summary: Guest poem for BTE by sunsgodess --
 tags:
   - prose and poetry
   - sunsgodess
