@@ -10,7 +10,7 @@ summary: |-
 tags:
   - post
   - guest post
-  - prose & poetry
+  - prose and poetry
 ---
 ![milgram visual](/static/img/milgram-visual-1-.png)
 

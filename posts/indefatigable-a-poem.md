@@ -13,7 +13,7 @@ summary: |-
 tags:
   - post
   - creative writing
-  - prose & poetry
+  - prose and poetry
   - journalism
 ---
 ![do not panic organize](/static/img/do-not-panic-organize-1-.png)

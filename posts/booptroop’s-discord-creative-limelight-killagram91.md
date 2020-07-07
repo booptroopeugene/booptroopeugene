@@ -5,7 +5,7 @@ author: Boop Troop Eugene
 summary: Discord thoughts from user killagram91!
 tags:
   - post
-  - prose & poetry
+  - prose and poetry
   - challenging the system
   - fourtwenty
   - killagram91

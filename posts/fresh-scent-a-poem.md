@@ -7,7 +7,7 @@ summary: |-
   Well, I’ll tell you what it’s not:
 tags:
   - post
-  - prose & poetry
+  - prose and poetry
   - creative writing
 ---
 ![](/static/img/pexels-photo-2652346-1-.jpg)

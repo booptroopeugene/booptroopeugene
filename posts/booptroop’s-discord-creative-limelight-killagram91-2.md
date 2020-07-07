@@ -5,7 +5,7 @@ author: Boop Troop Eugene
 summary: More Discord musings from killagram91
 tags:
   - post
-  - prose & poetry
+  - prose and poetry
   - eugene
   - killagram91
   - rebuild the community

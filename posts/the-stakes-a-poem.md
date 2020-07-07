@@ -13,7 +13,7 @@ summary: |-
 tags:
   - post
   - creative writing
-  - prose & poetry
+  - prose and poetry
   - blm
 ---
 ![environmental justice snip guardian](/static/img/environmental-justice-snip-guardian-1-.png)

@@ -8,7 +8,7 @@ summary: The following lyrics are an expression of the raw emotion of a day on
   with a vehicle in a hate crime by an identified white perpetrator...
 tags:
   - post
-  - prose & poetry
+  - prose and poetry
 ---
 <!--StartFragment-->
 
