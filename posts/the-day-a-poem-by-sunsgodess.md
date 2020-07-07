@@ -9,7 +9,6 @@ tags:
   - social issues poetry
   - guest post
   - creative writing
-  - ""
 ---
 The day it was silent<br>
 The sound was turned down<br>
