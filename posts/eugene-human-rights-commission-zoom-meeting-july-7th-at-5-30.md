@@ -1,6 +1,6 @@
 ---
 title: Eugene Human Rights Commission Zoom Meeting July 7th at 5:30
-date: 2020-07-07T03:20:01.182Z
+date: 2020-07-06T03:20:01.182Z
 author: Boop Troop Eugene
 summary: Many BIPOC voices will be heard at tomorrow's Eugene Human Rights
   Commision meeting tomorrow (July 7th) at 5:30 pm.
