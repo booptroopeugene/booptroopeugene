@@ -15,8 +15,6 @@ tags:
 ---
 ![US Marshals Aerosol Gas Canister](/static/img/108382781_136689534757264_6661945276561821427_o-1-.jpg)
 
-
-
 Reports say in PDX feds fire on someone's head enough to crack their skull, arrest a person for meditation, gas crowd indiscriminately (use of expired gas that can turn to deadly cyanide), assault medics trying to administer care.
 
 First-hand accounts state the projectile weapon fired at the 25-year-old, which appears to have been a 40-mm baton round ("rubber bullet"), hit so hard as to elicit a hemorrhaging of not only blood but also sinus tissue. This person was merely carrying a radio. This person has not awoken after brain surgery.\
@@ -85,8 +83,24 @@ We love you.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ThnXzDNGAyc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
 ![US Marshals with guns in Portland](/static/img/107806765_136689578090593_939898766495561720_o-1-.jpg)
+
+
+
+##### Related videos
+
+[Graphic footage of the man with seizure being attacked by feds](https://twitter.com/r3volutiondaddy/status/1282176619566690310?s=21)
+
+[Garrison Davis (Teargas Proof) (@hungrybowtie): The officers have a shot someone in the head with what appears to be an impact munition, there is a lot of blood.](https://t.co/8JmR3QA0AN)
+
+[Munitions used](https://m.facebook.com/story.php?story_fbid=136691224757095&id=103835358042682&sfnsn=mo)
+
+[Footage of medics being attacked while attending to injured citizen](https://www.facebook.com/billy.gibbons.712/videos/10157343508355986/)
+
+[Feds viciously attack medics last night in PDX](https://www.facebook.com/jenny.hartzog/videos/10223067174133948)
+
+[Another angle on the head wound](https://twitter.com/BurtDean22/status/1282256821739118592)
+
+[Head wound, time of impact](https://twitter.com/zerosum24/status/1282275808413966337)
+
+[](https://twitter.com/zerosum24/status/1282275808413966337)[](https://twitter.com/BurtDean22/status/1282256821739118592)
