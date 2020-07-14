@@ -13,6 +13,7 @@ tags:
   - blm
   - justiceforisiah
   - eugene
+  - featured
 ---
 ![](/static/img/108594064_137372461355638_2071671619039734465_o-1-.jpg)
 
