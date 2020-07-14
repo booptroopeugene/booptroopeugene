@@ -3,7 +3,7 @@
 
     {% include "components/head.njk" %}
 
-    <body>
+    <body class="layout-{{ layout | replace("layouts/","") | replace(".njk","") }}">
 
         <header class="site-header">
             <div class="nav-wrapper">
