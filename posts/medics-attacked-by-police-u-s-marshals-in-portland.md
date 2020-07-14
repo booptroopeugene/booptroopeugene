@@ -12,6 +12,7 @@ tags:
   - police brutality
   - portland
   - aclu
+  - featured
 ---
 ![US Marshals Aerosol Gas Canister](/static/img/108382781_136689534757264_6661945276561821427_o-1-.jpg)
 
