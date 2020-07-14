@@ -11,6 +11,10 @@ tags:
   - self-education
   - police
 ---
+Here are 1,700 names of officers removed from service, in 50 years in Oregon, recently released after the special session in the Legislature, prompted by direct actions and advocacy in support of BLM.
+
+
+
 ![DPSST Logo](/static/img/dpsst-logo.png)
 
 <https://www.oregon.gov/dpsst/CJ/Pages/Revocations.aspx?>
