@@ -10,6 +10,7 @@ tags:
   - post
   - at-home activism
   - blm
+  - featured
 ---
 <!--StartFragment-->
 
