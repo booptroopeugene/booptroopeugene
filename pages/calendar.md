@@ -26,7 +26,7 @@ permalink: /calendar/index.html
   function registerServiceWorker() {
     console.log('attempting to register a worker');
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/static/img/simpleSW.js')
+      navigator.serviceWorker.register('/simpleSW.js')
         .then((reg) => {
           // registration worked
           console.log('Registration succeeded. Scope is ' + reg.scope);
