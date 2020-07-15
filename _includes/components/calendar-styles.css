@@ -1,0 +1,125 @@
+  .cal-container {
+      height: 65vh;
+      width: 100%;
+      overflow-y: scroll;
+  }
+  .fc-modal {
+    display: none; 
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+  }
+  .fc-modal-content {
+    background-color: #fefefe;
+    margin: 10% auto !important;
+    border: 1px solid #888;
+    width: 90%;
+    max-width: calc(var(--site-width) - 10em );
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    cursor: default;
+  }
+  @media (max-width: 480px) {
+	.fc-modal-content {
+		height: 80vh;
+	}
+  }
+  .fc-modal-header {
+    background-color: #eee;
+    border: 1px solid #ddd;
+    position: relative;
+    padding: 20px 60px 20px 20px;
+  }
+  .fc-modal-title {
+      font-family: var(--headline-font);
+      font-size: 1.5em;
+      line-height: 1.1em;
+  }
+  @media (max-width: 480px) {
+	.fc-modal-title {
+	  font-size: 1.2em;
+      line-height: 1em;
+	}
+  }
+  .fc-modal-close {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 20px;
+      font-size: 2em;
+      padding: 0 5px;
+  }
+  .fc-modal-close:hover {
+      color: var(--accent);
+  }
+  .fc-modal-body {
+      flex-grow: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding: 20px;
+  }
+  .fc-description {
+      white-space: pre-wrap;
+      margin-top: 30px;
+      display: block;
+  }
+  .fc-modal-footer {
+      padding: 20px;
+      background-color: #eee;
+      border: 1px solid #ddd;
+  }
+
+  .fc-list-heading-main, .fc-list-heading-alt {
+    font-family: var(--headline-font);
+  }
+  .fc-list-item {
+    display: flex;
+  }
+  .fc-list-item-time {
+    width: 30% !important;
+    order: 3;
+    text-align: right;
+    white-space: break-spaces !important;
+  }
+  .fc-list-item-marker {
+    width: 10px !important;
+  }
+  .fc-list-item-title {
+    width: calc(65% - 16px);
+  }
+  .fc-event-dot {
+    background-color: var(--accent) !important;
+    margin-bottom: 4px;
+  }
+  .cal-sub-btn {
+    padding: .5em 1em;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-top: none;
+    margin-bottom: 1em;
+    background-color: #eee;
+    display: flex;
+    justify-content: center;
+  }
+  .cal-sub-btn a {
+    margin-left: 4px;
+  }
+  @media (max-width: 480px) {
+    .fc-list-table {
+      font-size: 16px !important;
+    }
+    .fc-event-dot {
+      margin-bottom: 0;
+    }
+    .cal-sub-btn {
+      font-size: 16px;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
