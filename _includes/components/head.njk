@@ -29,6 +29,13 @@
   <meta name="msapplication-TileColor" content="#000000">
   <meta name="theme-color" content="#ffffff">
   <!-- end favicons -->
+
+  <!-- opencalendar -->
+  {% if '/calendar' in page.url %}
+    {% include "components/calendar-head.njk" %}
+  {% endif %}
+  <!-- end opencalendar -->
+
   {% set css %}
   {% include "assets/css/inline.css" %}
   {% endset %}
