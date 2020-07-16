@@ -93,6 +93,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("mstile-310x310.png");
   eleventyConfig.addPassthroughCopy("safari-pinned-tab.svg");
   eleventyConfig.addPassthroughCopy("site.webmanifest");
+  // don't process this test service worker file
+  eleventyConfig.addPassthroughCopy("simpleSW.js");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
