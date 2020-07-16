@@ -2,6 +2,11 @@
       height: 65vh;
       width: 100%;
       overflow-y: scroll;
+      border-top: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+  }
+  #calendar {
+    margin-top: -1px;
   }
   .fc-modal {
     display: none; 
@@ -38,19 +43,21 @@
   .fc-modal-title {
       font-family: var(--headline-font);
       font-size: 1.5em;
-      line-height: 1.1em;
+      line-height: 1.3em;
+  }
+  .fc-time {
+    font-weight: 600;
   }
   @media (max-width: 480px) {
 	.fc-modal-title {
 	  font-size: 1.2em;
-      line-height: 1em;
+      line-height: 1.2em;
 	}
   }
   .fc-modal-close {
       cursor: pointer;
       position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
+      top: 10px;
       right: 20px;
       font-size: 2em;
       padding: 0 5px;

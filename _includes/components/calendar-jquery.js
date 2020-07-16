@@ -1,4 +1,5 @@
 $(document).ready(function () {
+
   $('.fc-description').linkify({
     target: "_blank"
   });
@@ -6,6 +7,12 @@ $(document).ready(function () {
   $('.fc-list-item').click(function (e) {
     e.preventDefault();
     e.stopPropagation();
+
+    var day = $(this).prevAll('.fc-list-heading:first').find('.fc-list-heading-main').html();
+    var date = $(this).prevAll('.fc-list-heading:first').find('.fc-list-heading-alt').html();
+    var time = $(this).find('.fc-list-item-time').html();
+    $(this).find('.fc-time').html(`${day}, ${date}, ${time}`);
+
     var modal = $(this).find('.fc-modal');
     modal.fadeIn();
     $('html, body').css({
