@@ -21,6 +21,7 @@ tags:
   - violent arrests
   - epd
   - portland
+  - featured
 ---
 !["Solidarity with Portland" Protest in Eugene on 7/25/20](/static/img/usably-blurry-crop.png)
 
