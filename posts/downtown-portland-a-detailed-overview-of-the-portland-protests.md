@@ -2,13 +2,8 @@
 title: '"Downtown Portland": A Detailed Overview of the Portland Protests'
 date: 2020-07-27T22:32:17.898Z
 author: Boop Troop Eugene
-summary: This post provides reassurances you may share with loved ones outside
-  of Oregon as to what is and is not happening in Portland, and why. It gives
-  concrete examples of some of the respectful, peacekeeping cohorts at the
-  Justice Center, and names immediate steps you can take to contribute, to your
-  own education and others', and financially, from home. Toby Loftus is a
-  professional violist and a dedicated blogger on the Oregon Coast and a friend
-  of Boop Troop Eugene. This blog post may be shared, with credit given.
+summary: Blatant Calm provides reassurances you may share with loved ones
+  outside of Oregon as to what is and is not happening in Portland, and why.
 tags:
   - post
   - links
