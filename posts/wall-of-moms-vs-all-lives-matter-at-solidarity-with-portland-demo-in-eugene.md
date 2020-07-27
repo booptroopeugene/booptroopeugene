@@ -6,9 +6,7 @@ summary: A Boop Troop Eugene first-time live streamer recounts her direct
   observations of the peacekeeping Wall of Moms, the All Lives Matter crew with
   their insidiously armed shields and guns, the march, the jail, the incident,
   the tear gas and pepper bullets, and the incredibly violent take-down and
-  arrest of an unarmed, 14-year-old girl by Eugene Police Department here in
-  Eugene, Oregon, USA, 7/25/20, at a demo in solidarity with our Portland
-  activist peers.
+  arrest of an unarmed, 14-year-old girl ...
 tags:
   - post
   - protest
