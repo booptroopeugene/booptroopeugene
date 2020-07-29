@@ -510,4 +510,8 @@ a.purple-shadow:visited {
 	}
 }
 
-
+.search-page-results li {
+	font-size: 1.2em; 
+	font-weight: 600;
+	margin-bottom: 0.5em;
+}
