@@ -15,11 +15,11 @@ excludeFromSearch: true
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
 <script>
+search_input = document.getElementById('search-input')
 var sjs = SimpleJekyllSearch({
   searchInput: search_input,
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json'
 })
-search_input = document.getElementById('search-input')
 search_input.value = document.location.hash.replace("#","")
 </script>
