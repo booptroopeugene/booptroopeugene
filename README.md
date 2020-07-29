@@ -8,22 +8,20 @@ Based on the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) re
 
 ## Features
 
-* NEW: Added basic support for post authors, using a simple folder collection
+* Post authors, using a simple folder collection
 * Uses the official [Eleventy Navigation](https://www.11ty.dev/docs/plugins/navigation/) plugin to build menus
-* Sample pages and a blog with tag support
 * Netlify CMS with editor previews (thanks [@biilmann](https://github.com/biilmann)!)
-* Includes a working contact form
 * CSS 2kb minified, inlined for fastest page render
 * Optional pipeline for minified inline JS
 * Pre-builds and minifies your HTML too
 * Uses Markdown files for content
 * Uses Nunjucks (or Liquid) templates for layout
-* 100% Javascript framework free
+* No JS frameworks
 * Continuous Deployment workflow via Netlify
 
-### Admin setup
+### Admin/Author setup
 
-We can only have 5 CMS accounts on the free Netlify plan. To gain access Kyle will have to add your email through Netlify. They'll send you an account setup email that will link you to the website and you should be good to go from there.
+We can only have 5 CMS accounts on the free Netlify plan. For access contact Kyle or another mod/dev. They'll send you an account setup email that will link you to the website and you should be good to go from there.
 The website CMS is accessible at https://booptroopeugene.com/admin/
 
 You can optionally use an external login provider when setting up your account.
@@ -32,13 +30,10 @@ Now you're all set, and you can start editing content!
 
 ## Gotchas
 
-If you change the repo that was created at deploy time from public to private, you'll need to regenerate your token,
+If we change the repo from public to private, we'll need to regenerate our token,
 as the token generated using the deploy to Netlify button can only access public repositories. To
-regenerate your token, head to "Settings" in your Netlify site dashboard, go to the "Identity"
-section, then scroll to "Services" where you'll see an "Edit settings" button. Click that and you'll
-see a text link to "Generate access token in GitHub".
-
-If you need any help with setting up Netlify CMS, you can reach out to the Netlify team in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).
+regenerate the token, head to "Settings" in Netlify dashboard, go to the "Identity"
+section, then scroll to "Services" and click "Edit settings" then "Generate access token in GitHub".
 
 ## Local development
 
@@ -66,20 +61,16 @@ npm install @11ty/eleventy
 ### 4. Run Eleventy (builds the site)
 
 ```
-npx @11ty/eleventy --serve
-```
+npm start
+``` 
+(this runs `npx @11ty/eleventy --serve`)
 
-Or in debug mode:
-```
-DEBUG=* npx @11ty/eleventy
-```
+Or run in debug mode: `DEBUG=* npx @11ty/eleventy`
 
 ## Local Dev & Git Workflow 
 
-With `npx eleventy --serve` running, open [localhost:8080](localhost:8080) to view your changes updated on the fly. Create a branch for your work, make your changes, and then submit a pull request for Kyle to review and merge into the live site.
+With `npm start` running, open [localhost:8080](localhost:8080) to view your changes updated on the fly. Create a branch for your work, make your changes, and then submit a pull request for review.
 
 ## Bug reports, feature requests, etc
 
 This is an ongoing project and contributions and suggestions are welcome! Feel free to add to the discussion in our discord #website-requests channel, open an issue on GitHub, or submit a PR.
-
-If you need any help with setting up Netlify CMS, you can reach out to the Netlify team in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).

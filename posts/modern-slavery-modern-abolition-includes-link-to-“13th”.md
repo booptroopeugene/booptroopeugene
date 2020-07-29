@@ -66,8 +66,8 @@ The BAFTA-award-winning documentary, 13th, by multiple-award-winning black direc
 
 The above graphic is from a Netflix ad about 13th in the New York Times.
 
-Netflix has made the whole film viewable for free by anyone on YouTube:\
-\
+Netflix has made the whole film viewable for free by anyone on YouTube:
+
 <iframe class="youtube-player" width="750" height="422" src="https://www.youtube.com/embed/krfcq5pF8u8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true" style="border:0;"></iframe>
 
 When we talk about institutionalized racism in policing, first and foremost that is omnipresent in the murders and brutality. It is also prevalent in charging and sentencing. Examining the pervasiveness of institutionalized racism in prison settings is part of examining institutionalized racism in policing. Reform vs. abolition is a conversation in both movements. Watching this documentary might help with that consideration.

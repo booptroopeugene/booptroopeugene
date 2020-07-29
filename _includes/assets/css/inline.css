@@ -119,7 +119,7 @@ pre {
 	margin-top: -10px;
 	font-family: var(--headline-font);
 }
-@media (max-width: 768px) {
+@media (max-width: 999px) {
 	.nav-wrapper {
 		flex-direction: column;
 	}

@@ -2,7 +2,7 @@
 title: Experimental Calendar
 date: 2017-01-01T00:00:00.000Z
 permalink: /calendar/index.html
-
+eleventyExcludeFromCollections: true
 ---
 
 <div class="cal-container">

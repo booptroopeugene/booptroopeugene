@@ -1,0 +1,18 @@
+---
+layout: false
+permalink: search.json
+excludeFromSearch: true
+---
+[
+{%- for item in collections.all -%}
+{%- if not item.data.excludeFromSearch -%}
+  {% if not loop.first %},{%- endif -%}{
+    "url" : "{{ item.url }}",
+    "date" : "{{ item.data.date }}",
+    "category" : "{{ item.templateContent | squash }}",{# hijacking category field to provide body content for indexing #}
+    "tags" : "{{ item.data.tags }}",
+    "title" : "{{ item.data.title }}"
+  }
+{%- endif -%}
+{%- endfor -%}
+]

@@ -1,26 +1,28 @@
 {
   "name": "booptroopeugene",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Community driven #booptroopeugene website. 11ty + Netlify + NetlifyCMS.",
   "scripts": {
+    "start": "npm run serve",
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
+    "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kylegrover/booptroopeugene"
+    "url": "https://github.com/booptroopeugene/booptroopeugene"
   },
   "author": {
-    "name": "Kyle Grover",
+    "name": "Boop Troop Eugene",
     "email": "kyle@kylegrover.com",
-    "url": "https://www.kylegrover.com/"
+    "url": "https://www.booptroopeugene.com/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kylegrover/booptroopeugene/issues"
+    "url": "https://github.com/booptroopeugene/booptroopeugene/issues"
   },
-  "homepage": "https://github.com/kylegrover/booptroopeugene",
+  "homepage": "https://github.com/booptroopeugene/booptroopeugene",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0-beta.3",
     "luxon": "^1.22.2",
