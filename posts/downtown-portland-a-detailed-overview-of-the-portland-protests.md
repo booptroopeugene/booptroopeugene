@@ -12,6 +12,8 @@ tags:
   - protests
   - featured
 ---
+![](/static/img/portlandia_w_t750x550-1-.jpg)
+
 Blatant Calm provides reassurances you may share with loved ones outside of Oregon as to what is and is not happening in Portland, and why. It gives concrete examples of some of the respectful, peacekeeping cohorts at the Justice Center, and names immediate steps you can take to contribute, to your own education and others', and financially, from home. Toby Loftus is a professional violist and a dedicated blogger on the Oregon Coast and a friend of Boop Troop Eugene. This blog post may be shared, with credit given.
 
 > "This is a very long post in three parts:
@@ -21,6 +23,5 @@ Blatant Calm provides reassurances you may share with loved ones outside of Oreg
 > III. What To Be Concerned About**
 >
 > I hope this will help those who are interested and concerned to have a better picture about what is happening here in Portland, how it should concern you, and what you can do about it..."
-
 
 [Continue Reading "Downtown Portland" at Blatant Calm](https://blatantcalm.home.blog/2020/07/26/downtown-portland/)
