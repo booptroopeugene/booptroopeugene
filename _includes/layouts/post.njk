@@ -11,6 +11,8 @@ section: post
     </small>
   </p>
 
+  {{ layoutContent | safe }}
+
   {% if tags %}
     <p>
     {% for tag in tags %}
@@ -21,8 +23,6 @@ section: post
     {% endfor %}
     </p>
   {% endif %}
-
-  {{ layoutContent | safe }}
 
 </article>
 
