@@ -436,6 +436,10 @@ a.purple-shadow:visited {
 }
 
 /* Featured Blog posts on home page */
+.featured-post {
+    background: #f5f6f7;
+    padding: 1em 1em 0;
+}
 .featured-post_title a {
 	color: var(--primary);
 	text-decoration: none;
@@ -446,7 +450,7 @@ a.purple-shadow:visited {
 
 .featured-post_read {
 	color: var(--accent);
-	margin-top: .15em;
+	margin-top: .5em;
 }
 
 .featured-post_summary {
