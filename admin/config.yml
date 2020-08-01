@@ -23,6 +23,8 @@ collections:
         collection: "authors"
         searchFields: ["name", "github"]
         valueField: "name"
+        default: "Boop Troop Eugene"
+        required: false
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -52,4 +54,3 @@ collections:
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Email", name: "email", widget: "string"}
-      - {label: "GitHub", name: "github", widget: "string"}
