@@ -1,12 +1,12 @@
 ---
 title: "PPE for Protesters, by Samm Bones, Guest Blogger "
-date: 2020-08-04T20:55:54.996Z
+date: 2020-08-04T21:29:22.081Z
 author: Boop Troop Eugene
 summary: "How to dress for the war zone in downtown Portland, from an herbalist
   medic ally. "
 tags:
-  - "#PPE #protesters #guestblog #medic #Portland #blacklivesmatter #safetygear
-    #tacticalgear #firstaidkit #preparationsaveslives"
+  - protection
+  - medics
 ---
 
 
