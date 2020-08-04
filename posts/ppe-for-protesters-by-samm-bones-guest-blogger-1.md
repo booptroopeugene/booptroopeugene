@@ -5,16 +5,8 @@ author: Boop Troop Eugene
 summary: "How to dress for the war zone in downtown Portland, from an herbalist
   medic ally. "
 tags:
-  - "#PPE"
-  - "#protesters"
-  - "#guestblog"
-  - "#medics"
-  - "#Portland"
-  - "#blacklivesmatter"
-  - "#safetygear"
-  - "#tacticalgear"
-  - "#firstaidkit"
-  - "#preparationsaveslives"
+  - protection
+  - medics
 ---
 
 
