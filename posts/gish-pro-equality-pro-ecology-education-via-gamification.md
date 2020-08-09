@@ -16,7 +16,6 @@ tags:
   - anti-racist education
   - LGBTQIA equality
   - donations
-  - ""
 ---
 ![Millions of dollars, millions of hours toward community empowerment (Source: Gish.com)](/static/img/how-gishers-spend-their-time.png "Millions of dollars, millions of hours toward community empowerment (Source: GISH.com)")
 
