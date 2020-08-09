@@ -13,18 +13,6 @@ tags:
 ---
 <!--StartFragment-->
 
-*   
-* * * [Governors Must Act Now to Protect Health Care Workers in All U.S. States](https://secure.phr.org/secure/governors-must-act-now-protect-health-care-workers-all-us-states-0?utm_term=website)
-    *  
-* *  
-* [About](https://phr.org/about/)
-
-  *  
-
-[Resources](https://phr.org/our-work/resources/)[Report](https://phr.org/our-work/resources/?_sft_resource_type=report)
-
-# Lethal in Disguise
-
 ## The Health Consequences of Crowd-Control Weapons
 
 March 1, 2016 Weapons, Global
@@ -40,8 +28,6 @@ In recent years, there has been a rise in the number of popular protests in whic
 Law enforcement throughout the world is increasingly responding to popular protests with crowd-control weapons (CCWs). The proliferation of CCWs without adequate regulation, training, monitoring, and/or accountability, has led to the widespread and routine use or misuse of these weapons, resulting in injury, disability, and death. There is a significant gap in knowledge about the health effects of CCWs and an absence of meaningful international standards or guidelines around their use. As a result, the International Network of Civil Liberties Organizations (INCLO) and Physicians for Human Rights (PHR) partnered to document the health consequences of CCWs and examine their roles and limitations in protest contexts and make recommendations about their safe use.
 
 This report aims to raise awareness about the misuse and abuse of CCWs, the detrimental health effects that these weapons can have, and the impact of their use on the meaningful enjoyment of freedom of assembly and expression. We also seek to foster a global debate to develop international standards and guidelines. Ultimately, our goal is to prevent injury, disability, and death by providing information about CCWs and insisting on their safe use.
-
-[![](<>)](https://phr.org/issues/weapons/non-lethal-weapons-used-with-excessive-force/)
 
 ### [Health Effects of Tear Gas, Rubber Bullets, and other Crowd-Control Weapons](https://phr.org/issues/weapons/non-lethal-weapons-used-with-excessive-force/)
 
