@@ -7,26 +7,7 @@ summary: >-
   international human rights violations -- and it's not the first time.
   Previously, Amnesty denounced EPD for relentlessly pepper spraying peaceful
   treesitters, precariously dangling from tree limbs 40-80 feet in the air,
-  including using a cherry picker to cut open someone's pants to apply chemical
-  warfare point-blank from inches away, to their genitalia and anus; and for
-  directly firing tear gas, both at bystanders and especially at journalists
-  from CopWatch. Boop Troop Eugene is, for all intents and purposes, the new
-  CopWatch. The current denunciation is as follows: "Now Register-Guard reporter
-  Adam Duvernay’s video of EPD tossing tear gas at RG reporters, shouting “it
-  doesn’t matter” at reporters identifying themselves as press and striking
-  Eugene Weekly reporter Henry Houston in the chest with a tear gas canister
-  while he also identified himself as a journalist, appears as part of a new
-  report by Amnesty International." Back when Amnesty originally denounced EPD,
-  about a month later the police chief resigned. Let's see what we can do with
-  this momentum. Everyone involved who gave or followed orders to inflict
-  torture should both be out of a job and be prosecuted. That includes anyone in
-  City Government as well as in the Department. 
-
-
-  #amnestyinternational #EugenePoliceDepartment #EPD #WarCrimes #internationalhumanrightsviolations #FirstAmendment #protectthepress #booptroopeugene #copwatch #blacklivesmatter
-
-
-  The above was an editorial by Boop Troop Eugene. The below is an article from Eugene Weekly, which recently featured a cover story on Boop Troop Eugene.
+  including using a cherry picker to cut...
 tags:
   - Amnesty International
   - EPD
@@ -34,23 +15,11 @@ tags:
 ---
 <!--StartFragment-->
 
-# Amnesty International Releases Report on Violence Against Protesters
-
 #### Eugene police make it into the report on police violence
-
-[BLOG](https://www.eugeneweekly.com/category/blog/)[NEWS](https://www.eugeneweekly.com/category/news/)BY [CAMILLA MORTENSEN](https://www.eugeneweekly.com/author/camilla-mortensen/)POSTED ON [08/05/2020](https://www.eugeneweekly.com/2020/08/05/amnesty-international-releases-report-on-violence-against-protesters/)
-
-* [CLICK TO SHARE ON FACEBOOK (OPENS IN NEW WINDOW)](https://www.eugeneweekly.com/2020/08/05/amnesty-international-releases-report-on-violence-against-protesters/?share=facebook&nb=1 "Click to share on Facebook")
-* [CLICK TO SHARE ON TWITTER (OPENS IN NEW WINDOW)](https://www.eugeneweekly.com/2020/08/05/amnesty-international-releases-report-on-violence-against-protesters/?share=twitter&nb=1 "Click to share on Twitter")
-* [CLICK TO SHARE ON TUMBLR (OPENS IN NEW WINDOW)](https://www.eugeneweekly.com/2020/08/05/amnesty-international-releases-report-on-violence-against-protesters/?share=tumblr&nb=1 "Click to share on Tumblr")
-*
 
 It’s been a while since the Eugene Police Department has been called out by Amnesty International.
 
 Back in 1997, EPD sprayed tree-climbing protesters with so much [pepper spray that they had to borrow cans from Springfield and Lane County.](https://eugeneweekly.com/2012/02/24/eugene-weekly-news-5-31-07-2/#4) The police cut open the pants of one of the treesitters, and sprayed his anus and genitals, an act [Amnesty International](https://www.amnesty.org/download/Documents/160000/amr510671997en.pdf) called “torture.” The city later [settled a lawsuit over the incident for $30,000](https://eugeneweekly.com/2008/05/09/torrey-and-june-1st-pepper-spraying-of-treesitters/) and developed new guidelines for its use of pepper spray back in 2000.
-
-\
-Video by Tim Lewis/PictureEugene
 
 Now *Register-Guard* reporter Adam Duvernay’s video of EPD tossing tear gas at *RG* reporters, shouting “it doesn’t matter” at reporters identifying themselves as press and striking *Eugene Weekly* reporter Henry Houston in the chest with a tear gas canister while he also identified himself as a journalist, appears as part of a new report by Amnesty International.
 
@@ -71,7 +40,5 @@ According to the report’s [executive summary](https://www.amnestyusa.org/wp-co
 The report says that “while Black people represent 13.2 percent of the U.S. population, they represent 24.2 percent of deaths from police use of firearms.”
 
 It points out that in the five years since Amnesty’s last report on police violence, “Deadly Force,” released after Michael Brown, an 18-year-old Black teenager, was killed by a police officer in Ferguson, Missouri, “there has been a disturbing lack of progress over the past five years in ensuring that police officers use lethal force only when there is an imminent risk of death or serious injury to themselves or others.”
-
-TAGS: [BLACK LIVES MATTER](https://www.eugeneweekly.com/tag/black-lives-matter/)
 
 <!--EndFragment-->
