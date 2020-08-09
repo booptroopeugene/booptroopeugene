@@ -1,6 +1,6 @@
 ---
 title: "GISH: Pro-Equality, Pro-Ecology Education via Gamification"
-date: 2020-08-09T03:32:52.102Z
+date: 2020-08-09T04:39:15.196Z
 author: remysaverem
 thumbnail: /static/img/how-gishers-spend-their-time.png
 summary: "GISH brings tens of thousands of people of all ages, genders, and
