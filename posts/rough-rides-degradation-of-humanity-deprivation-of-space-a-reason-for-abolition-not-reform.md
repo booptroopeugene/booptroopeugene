@@ -1,5 +1,5 @@
 ---
-title: "Rough Rides: Degradation of Humanity, Deprivation of Space; a Reason for
+title: "Rough Rides: Degradation of Humanity, Deprivation of Space, a Reason for
   Abolition, not Reform"
 date: 2020-08-10T17:09:16.176Z
 author: remysaverem
