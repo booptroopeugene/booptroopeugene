@@ -13,6 +13,7 @@ tags:
   - Multnomah County DA Mike Schmidt
   - Boop Blog
   - breaking news
+  - featured
 ---
 ![](/static/img/mike-schmidt-da.png)
 

@@ -14,6 +14,7 @@ tags:
   - hip-hop MCs
   - Black Lives Matter
   - Boop Troop Eugene Guest Blog
+  - featured
 ---
 ![](/static/img/justice-in-motion.png)
 

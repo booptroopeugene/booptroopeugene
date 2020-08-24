@@ -99,6 +99,11 @@ module.exports = function (eleventyConfig) {
 
   });
 
+  // Minify CSS
+  eleventyConfig.addFilter("isodate", function (str) {
+    return new Date(str).toISOString();
+  });
+
   /* add eleventy passthrough copies to include other files in the site build */
   // Netlify stuff
   eleventyConfig.addPassthroughCopy("_redirects");
