@@ -31,7 +31,7 @@
   <!-- end favicons -->
 
   <!-- opencalendar -->
-  {% if '/calendar' in page.url %}
+  {% if title == 'Home' %}
     {% include "components/calendar-head.njk" %}
   {% endif %}
   <!-- end opencalendar -->

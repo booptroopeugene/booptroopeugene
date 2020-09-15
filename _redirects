@@ -1,2 +1,6 @@
 # Redirects from what the browser requests to what we serve
 # /blog/             https://booptroopeugene.wordpress.com/blog-2/ 302!
+
+/fire-help/          https://forms.gle/3Z4kgJgR4BQNwAfQ8
+/fire-volunteer/     https://forms.gle/z7F2Gxi9F4CVLDzM8
+/fire-donate/        https://forms.gle/dnC1HTrc14MF7eye7

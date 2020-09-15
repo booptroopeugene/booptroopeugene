@@ -18,11 +18,17 @@
                     <div class="hero-image" style="background-image: url(/static/img/hero.jpg)"></div>
                     <div class="hero-logo" style="background-image: url(/static/img/bte-logo-darkbg.svg)"></div>
                 </div>
+                <div>
+
+                </div>
             {% endif %}
 
         </header>
 
         <main class="site-main">
+            {% if title == 'Home' %}
+                {% include "components/promo-banner-fire.njk" %}
+            {% endif %}
             <div class="wrapper">
                 <div class="main-col">
                     {{ layoutContent | safe }}
