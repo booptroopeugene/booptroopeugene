@@ -10,12 +10,20 @@ eleventyExcludeFromCollections: true
 <hr style="margin-bottom: 2rem">
 <div style="margin-bottom: 2rem">
   Able to join BTE in providing mutual aid to fire survivors and evacuees?
-  <a href="/fire-volunteer/" target="_blank" class="button" style="margin-top: 1rem; background-color: #1c91e4">I'd like to volunteer</a>
+  <a href="/fire-volunteer/" target="_blank" class="button" style="margin-top: 1rem; background-color: #087acc">I'd like to volunteer my time</a>
 </div>
 <hr style="margin-bottom: 2rem">
 <div style="margin-bottom: 2rem">
-  Do you have donations for others who have been affected by the fires in Oregon?
-  <a href="/fire-donate/" target="_blank" class="button" style="margin-top: 1rem; background-color: #007700">I'd like to donate</a>
+  Do you have some spare essential items or can assist us with acquiring and/or delivering them for others who have been affected by the fires in Oregon?
+  <a href="/fire-donate/" target="_blank" class="button" style="margin-top: 1rem; background-color: #2c52a7">I can help with supplies</a>
+</div>
+<hr style="margin-bottom: 2rem">
+<div style="margin-bottom: 2rem">
+  Would you like to support Boop Troop's relief efforts with a financial contribution? All funds go directly to provide relief to those displaced by the wildfires in Oregon and for efforts to help communities rebuild.
+  <div style="display: flex; justify-content: space-between">
+    <a href="https://www.paypal.com/biz/fund?id=9H82HTQH46S3S" target="_blank" class="button" style="margin-top: 1rem; background-color: #1a8e18; width: 49%">Donate with Paypal</a>
+    <a href="https://venmo.com/booptroopeugene" target="_blank" class="button" style="margin-top: 1rem; background-color: #1a8e18; width: 49%">Donate with Venmo</a>
+  </div>
 </div>
 <hr style="margin-bottom: 2rem">
 
