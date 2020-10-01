@@ -539,3 +539,21 @@ a.purple-shadow:visited {
 	font-weight: 600;
 	margin-bottom: 0.5em;
 }
+
+
+/* Language selector */
+.lang-switch {
+	display: inline-flex;
+	font-family: var(--headline-font);
+	margin-bottom: 1em;
+}
+
+.lang-switch .lang-btn {
+	margin-left: 1rem;
+}
+
+.lang-switch .lang-btn.active {
+	cursor: auto;
+	color: var(--primary);
+	text-decoration: none;
+}
