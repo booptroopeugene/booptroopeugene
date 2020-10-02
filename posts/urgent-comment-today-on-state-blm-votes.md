@@ -70,7 +70,7 @@ HB 4213 is necessary so that renters of homes and of small businesses are not ev
 
 ***Thank you for your civil engagement.***
 
-***Stay tuned to Boop Troop News Blog for updates.*** *— Ellen, Assistant Editor.*
+***Stay tuned to Boop Troop News Blog for updates.*** *— #5, Assistant Editor.*
 
 \#OregonStateLegislature #emergencysession #urgentnews #ToDoTODAY #DigitalActivism #BLM #BlackLivesMatter #chokeholdban #teargasban #sonicweaponban #demilitarization #policedisciplinerecords #publicdatabase #evictionprotection #mandatoryreporting #civilengagement #editorial #photojournalism #georgefloydlegislation
 
