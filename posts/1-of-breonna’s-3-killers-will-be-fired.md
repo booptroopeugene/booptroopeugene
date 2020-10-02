@@ -28,6 +28,6 @@ May there be no further Breonna Taylors. May justice be served for Breonna and f
 
 Be safe. We love you.
 
-*–Ellen for Boop*
+*–#5 for Boop. This article is from Juneteenth. It has not been edited or updated other than to anonymize its author for safety.*
 
 <!--EndFragment-->
