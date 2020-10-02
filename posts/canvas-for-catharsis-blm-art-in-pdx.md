@@ -37,6 +37,6 @@ The general gestalt of the steadfast movement, determined to persist in the face
 
 ![blm projected on building photo by scully media](/static/img/blm-projected-on-building-photo-by-scully-media-1-.jpg)
 
-**\*Blessings to all who find healing and community-building through creative expression. —** Ellen for Boop Troop Eugene News Blog.*
+**\*Blessings to all who find healing and community-building through creative expression. —** #5 for Boop Troop Eugene News Blog.*
 
 *\#BLM, #BlackLivesMatter, #StreetArt, #PublicArt, #Murals, #Collages, #PDX, #PortlandOregon, #ActivistArt, #memorial, #VictimsofPoliceKillings, #catharsis, #healing, #community-building, #ImageProjectedOntoBuilding, #Photography*
