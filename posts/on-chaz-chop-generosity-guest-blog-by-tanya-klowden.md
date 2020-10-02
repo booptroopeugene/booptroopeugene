@@ -1,5 +1,5 @@
 ---
-title: On CHAZ (CHOP) & Generosity. Guest Blog By Tanya Klowden
+title: On CHAZ (CHOP) & Generosity. Guest Blog By Tanya K
 date: 2020-06-16T21:22:00.000Z
 author: remysaverem
 summary: Last weekend, Los Angeles saw thousands gather in protests across the
@@ -10,13 +10,13 @@ tags:
   - post
   - guest post
   - creative writing
-  - tanya klowden
+  - tanya k
 ---
 ***Guest Blogs will be an ongoing feature. Stay tuned.***
 
 ***Today’s Guest Blog comes from Los Angeles.***
 
-***Assistant Editor’s note: The terminology she is seeking is “mutual aid” and “mutual aid societies”. More on that in future blog posts. –Ellen.***
+***Assistant Editor’s note: The terminology she is seeking is “mutual aid” and “mutual aid societies”. More on that in future blog posts. –#5***
 
 ![helping your fellow rat](/static/img/helping-your-fellow-rat-1-.png)
 
