@@ -1,5 +1,5 @@
 ---
-title: "Whose Streets? (Art by Emmy; Boop Blog by #5)"
+title: Whose Streets? (Art by Emmy, Boop Blog by Number 5)
 date: 2020-10-02T05:06:36.553Z
 author: Boop Troop Eugene
 summary: >
