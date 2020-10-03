@@ -1,5 +1,5 @@
 ---
-title: Arisen
+title: Arisen, lyrics by Number 5, photo by Scully Media
 date: 2020-06-13T22:33:07.292Z
 author: remysaverem
 summary: |-
@@ -8,9 +8,9 @@ summary: |-
 tags:
   - post
 ---
-***Art by Sai Marie Johnson; Lyrics by Ellen ([@remysaverem](https://booptroopeugene.wordpress.com/mentions/remysaverem/))***
+ ***Lyrics by #5***
 
-![arise 2](/static/img/arise-2-1-.png)
+![Black Lives Matter in the sign language alphabet](/static/img/blm-sign-language-scully-media.png "Black Lives Matter in the sign language alphabet")
 
 **How has community arisen?**
 
@@ -90,4 +90,4 @@ tags:
 
 ***the new name for CHAZ.***
 
-***Lyrics composed for BoopTroopEugene Blog by Ellen ([@remysaverem](https://booptroopeugene.wordpress.com/mentions/remysaverem/) on WordPress). Visual art composed for BTE by Sai Marie Johnson.***
+***Lyrics by #5. Photo by Scully Media, shared with enthusiastic consent***
