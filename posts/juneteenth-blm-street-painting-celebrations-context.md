@@ -53,6 +53,6 @@ Locally, there are multiple celebrations.
 
 We love you and look forward to seeing you, in person and virtually.
 
-*–Ellen for Boop Troop Eugene News Blog.*
+*–#5 for Boop Troop Eugene News Blog.*
 
 <!--EndFragment-->
