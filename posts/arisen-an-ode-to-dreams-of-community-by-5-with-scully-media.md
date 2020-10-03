@@ -97,6 +97,6 @@ tags:
 
 ***the new name for CHAZ.***
 
-***This originally was the very first Boop Troop Eugene blog post by any existing BTE editor, and was posted 6/15/20. It has been edited to include the lovely, inclusive, empowering photo by Scully Media, shared with enthusiastic consent.*** 
+***This originally was the very first Boop Troop Eugene blog post by any existing BTE editor, and was posted 6/13/20. It has been edited to include the lovely, inclusive, empowering photo by Scully Media, shared with enthusiastic consent.*** 
 
 <!--EndFragment-->
