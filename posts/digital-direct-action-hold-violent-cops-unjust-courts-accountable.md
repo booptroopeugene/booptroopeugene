@@ -279,6 +279,6 @@ George Floyd
 
       - - -
 
-      ***Future Boop Troop Eugene blog posts will include comparable lists of (a) bail funds; (b) groups accepting donations; (c) anti-racist self-education suggested steps. Remember: Anyone of any age, any health consideration, and any housing or socioeconomic status can and is welcome to participate and be a valid, honored member of activist communities. Yes we need and love those who can be there and live-stream, and those who can be there and march. And, there are meaningful roles for those who cannot. This blog will continue to highlight both. We love you all! –Ellen.***
+      ***Future Boop Troop Eugene blog posts will include comparable lists of (a) bail funds; (b) groups accepting donations; (c) anti-racist self-education suggested steps. Remember: Anyone of any age, any health consideration, and any housing or socioeconomic status can and is welcome to participate and be a valid, honored member of activist communities. Yes we need and love those who can be there and live-stream, and those who can be there and march. And, there are meaningful roles for those who cannot. This blog will continue to highlight both. We love you all! –#5***
 
 <!--EndFragment-->
