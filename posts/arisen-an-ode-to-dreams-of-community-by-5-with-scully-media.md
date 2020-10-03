@@ -1,5 +1,5 @@
 ---
-title: Arisen, an ode to dreams of community, by 5 with Scully Media
+title: "Arisen, an ode to dreams of community "
 date: 2020-10-03T02:35:44.185Z
 author: remysaverem
 thumbnail: /static/img/blm-sign-language-scully-media.png
