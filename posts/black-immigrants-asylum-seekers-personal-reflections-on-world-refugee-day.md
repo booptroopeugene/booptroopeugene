@@ -31,9 +31,9 @@ The immigration enforcement system is notoriously biased against and discriminat
 
 Re-envisioning policing has to include re-envisioning approaches to what is considered a crime and to how to respond to the presence of people seeking asylum (or arriving for any reason) in this country (with and without granted paperwork) to include protections for black people newly arriving in the USA as well as those here for multiple generations.
 
-*–By Ellen for Boop Troop Eugene News Blog.*
+*–By #5 for Boop Troop Eugene News Blog.*
 
-*Author’s note: It was very meaningful to me to post homages to World Refugee Day during and just after Father’s Day weekend, because both sides of my family have been refugees from genocide. I have relatives who were:*
+*Author’s note: It was very meaningful to me to post homages to World Refugee Day during and just after Father’s Day weekend, because people I know and their parents have been refugees from genocide. People dear to me and their ancestors have been:*
 
 *— Killed in the Shoah (Holocaust);*
 
@@ -47,6 +47,6 @@ Re-envisioning policing has to include re-envisioning approaches to what is cons
 
 *— Had to network to find a “sponsor” to come to the states.*
 
-*I also personally used to do Spanish translation for the Immigration Physicals for Amigos de los Sobrevivientes (Friends of the Survivors), a group which helped those who sought Asylum here after political torture in Central or South America. And my hometown, full of Holocaust survivors and escapees, was deliberately a haven for those seeking asylum. I grew up with friends whose families had fled political torture, from Russia to Burma. So the confluence this weekend of Juneteenth, World Refugee Day, and Father’s Day means a lot to me. It was also Solstice; apex of sunlight. May truths be illuminated. Thank you.*
+*I also personally used to do Spanish translation for the Immigration Physicals for Amigos de los Sobrevivientes (Friends of the Survivors), a group which helped those who sought Asylum here after political torture in Central or South America. And a place I lived, where neighbors included Holocaust survivors and escapees, was deliberately a haven for those seeking asylum. I grew up with friends whose families had fled political torture, from Russia to Burma. So the confluence this weekend of Juneteenth, World Refugee Day, and Father’s Day means a lot to me. It was also Solstice; apex of sunlight. May truths be illuminated. Thank you.*
 
 <!--EndFragment-->
