@@ -1,6 +1,6 @@
 ---
-title: Research Tools on Police Violence. First of a series of articles for
-  BoopTroopEugene News, by Ellen
+title: "Research Tools on Police Violence. First of a series of articles for
+  BoopTroopEugene News, by #5"
 date: 2020-06-15T18:31:00.000Z
 author: remysaverem
 summary: "In this series of news briefs, I will be sharing articles and
@@ -60,4 +60,4 @@ We love you.
 
 Take care of yourself, and read this in a safe setting.
 
-*— Ellen.*
+*— #5*
