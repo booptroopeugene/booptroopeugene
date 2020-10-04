@@ -13,13 +13,19 @@ tags:
 ---
 <!--StartFragment-->
 
-MARCH 26, 2020
+![Starling in flight at wetlands, photo by Sunny September](/static/img/starling-in-flight-sunny-september.jpg "Starling in flight at wetlands, photo by Sunny September")
+
+Starling in flight at the wetlands, Photo by Sunny September, shared with enthusiastic consent.
+
+ 
+
+
 
 # [When Words Become Music Again](https://www.counterpunch.org/2020/03/26/when-words-become-music-again/)
 
 BY [SCOTT OWEN](https://www.counterpunch.org/author/scowen3912/)
 
-[Facebook](https://www.counterpunch.org/#facebook)[Twitter](https://www.counterpunch.org/#twitter)[Reddit](https://www.counterpunch.org/#reddit)[Email](https://www.counterpunch.org/#email)[![](https://www.counterpunch.org/wp-content/dropzone/2017/09/atoa-print-icon.png)](https://www.counterpunch.org/2020/03/26/when-words-become-music-again/print/ "Print This Post")
+
 
 I watched a beautiful video this morning showing the murmuration of a flock of starlings with Pachelbels Canon in D Major in the [background](applewebdata://084054A6-0A71-43A9-9BB2-925A57DD2B31/Words%20into%20music%20copy.docx). It got me thinking about the ability of creatures to act as a living unit without verbal, visual or any other obvious form of communication. Birds fly in murmurations, fish swim in schools, bison graze in herds and so on, doing all through some form of telepathic communication that we humans, with all of our science and education seem to hardly understand at all. This in turn brought me to thinking about mass consent of large numbers of people in times of crises. One of the pressing questions and difficulties of this particular crisis, the pandemic, is the fear of over-reaching government and what appears to be the very real need for human cooperation, and so back to the birds, fish and bison.
 
@@ -48,8 +54,16 @@ We can access this faith by opening those things we call heart and mind in a fas
 
 In this faith our words become music, like the true sounds of life, like the sounds of lovers and babies and the sound of real pain and joy, the things we all must experience, either alone, together, or as someone’s automaton.
 
-   
+***This article by Scott Owen was originally published in Counterpunch 3/26/20, and was shared with Boop Troop Eugene with the author's enthusiastic consent.*** 
 
-***This article by Scott Owen was originally published in Counterpunch 3/26/20, and was shared with Boop Troop Eugene with the author's enthusiastic consent. -- Remysaverem.***
+***For more gorgeous nature photography by Sunny September, go to:***
+
+<!--StartFragment-->
+
+<https://sunnyseptember.photoshelter.com/index>
+
+<!--EndFragment-->
+
+***\-- Remysaverem.***
 
 [](https://store.counterpunch.org/product-category/merchandise/)
