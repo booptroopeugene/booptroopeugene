@@ -2,6 +2,7 @@
 title: When Words Become Music Again, by Scott Owen
 date: 2020-10-03T03:03:53.802Z
 author: remysaverem
+thumbnail: /static/img/starling-in-flight-sunny-september.jpg
 summary: '"I’m sure we have this ability, to flow together in wordless harmony
   and grace; we see it in dance...." '
 tags:
@@ -11,7 +12,7 @@ tags:
   - faith
   - Counterpunch
 ---
-<!--StartFragment-->
+
 
 ![Starling in flight at wetlands, photo by Sunny September](/static/img/starling-in-flight-sunny-september.jpg "Starling in flight at wetlands, photo by Sunny September")
 
