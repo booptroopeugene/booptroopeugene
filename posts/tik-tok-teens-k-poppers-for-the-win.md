@@ -62,6 +62,6 @@ PUBLISHED: 20:55 EDT, 20 June 2020 | UPDATED: 01:20 EDT, 21 June 2020
 
 “Instead, the app was inundated with K-pop videos and was eventually taken down as a result.”
 
-**Keep it up, loves. Direct action gets the goods — and that includes direct actions anyone of any age can do from home. — *Ellen for Boop Troop News Blog.***
+**Keep it up, loves. Direct action gets the goods — and that includes direct actions anyone of any age can do from home. — *Remy for Boop Troop News Blog.***
 
 <!--EndFragment-->
