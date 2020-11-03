@@ -61,6 +61,6 @@ Myths and realities: *<https://www.pbs.org/wnet/african-americans-many-rivers-to
 
 Our next blog post will provide resources for self-education on modern slavery and on modern abolition.
 
-Thank you. We love you. *— Ellen for BTE NB.*
+Thank you. We love you. *— Remy for BTE NB.*
 
 <!--EndFragment-->
