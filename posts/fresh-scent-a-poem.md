@@ -72,7 +72,7 @@ Photo Credit [Evie Shaffer](https://www.pexels.com/@evie-shaffer-1259279) © 202
 
 *By*
 
-*Ellen*
+*Remy*
 
 *for BoopTroopEugene*
 
