@@ -54,6 +54,8 @@ Draft agenda below:
 
 Blessings to all artists for sharing your visions toward a better world.
 
-*–Ellen.*
+*–Remy*
+
+*.*
 
 <!--EndFragment-->
