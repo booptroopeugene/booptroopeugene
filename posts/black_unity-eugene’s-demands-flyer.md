@@ -25,6 +25,6 @@ Not only do I fully support redirecting any funds that would have been allocated
 
 Stay tuned to Boop Troop Eugene News Blog for a future article on that subject.
 
-—*Ellen.*
+—*Remy.*
 
 <!--EndFragment-->
