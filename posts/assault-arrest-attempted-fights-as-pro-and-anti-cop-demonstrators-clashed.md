@@ -53,6 +53,6 @@ If something comparable happens to you, you will want to contact Bail Support. T
 
 Among many logical next steps for those participating in local public events, especially those participating as media and/or medics, may be to receive training in conflict de-escalation.
 
-Thank you to Tre and all who kept the peace tonight. Stay safe, we love you. *— Ellen.*
+Thank you to Tre and all who kept the peace tonight. Stay safe, we love you. *— Remy.*
 
 <!--EndFragment-->
