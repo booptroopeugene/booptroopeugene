@@ -22,6 +22,6 @@ One person posted on Facebook having witnessed “an orange charger with black r
 
 It is likely repainting will occur soon.
 
-Stay tuned. Stay safe. We love you. *–Ellen for Boop Troop Eugene News Blog.*
+Stay tuned. Stay safe. We love you. *–Remy for Boop Troop Eugene News Blog.*
 
 <!--EndFragment-->
