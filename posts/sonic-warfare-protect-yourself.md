@@ -75,6 +75,6 @@ Here is an article on that research.
 
 <https://www.joincampaignzero.org/demilitarization>
 
-***Be safe. We love you. — Ellen.***
+***Be safe. We love you. — Remy.***
 
 <!--EndFragment-->
