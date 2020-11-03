@@ -18,7 +18,7 @@ tags:
 
 **The above is a Guest Blog from Hallie Roberts, shared with permission. The photo is the public profile picture of the City Manager on FB.**
 
-***The below is added by me, BTENB Assistant Editor Ellen.***
+***The below is added by me, BTENB Assistant Editor Remy.***
 
 Personally, while I think it is certainly more encouraging that the City Manager authorized the permit and chose to make her public profile picture indicative of support of BLM than if her profile picture had a Confederate flag or a MAGA hat, if this same City Manager authorized the manipulative and belatedly announced “curfews” and the repeated and militarized response of EPD to peaceful protestors, and if she did not publicly apologize and denounce the violence afterwards, then there is a lot more than a photo op that we need to see.
 
@@ -93,6 +93,6 @@ Here is how to attend the Eugene City Council work session and/or meeting TOMORR
 
 Stay tuned for a post about what you can do to help identify and advocate for budget priorities, TODAY.
 
-*— Ellen for Boop Troop Eugene News, with permission from Hallie Roberts. Hallie authorized me to refer interested local activists to PM her on FB.*
+*— Remy for Boop Troop Eugene News, with permission from Hallie Roberts. Hallie authorized me to refer interested local activists to PM her on FB.*
 
 <!--EndFragment-->
