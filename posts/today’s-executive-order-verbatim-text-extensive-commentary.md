@@ -74,6 +74,6 @@ Sec. 4. Mental Health, Homelessness, and Addiction. (a) Since the mid-twentieth 
 
 ### ***Co-responder programs are a start. They are not the same as a replacement. But they are a start. If a decent human being with empathy becomes President, they might have a chance of being helpful.***
 
-**What do you all think of the above? We would love to hear. Thank you. —*Ellen.***
+**What do you all think of the above? We would love to hear. Thank you. —*Remy.***
 
-<!--EndFragment-->
+*<!--EndFragment-->*

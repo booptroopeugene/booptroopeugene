@@ -72,4 +72,4 @@ Netflix has made the whole film viewable for free by anyone on YouTube:
 
 When we talk about institutionalized racism in policing, first and foremost that is omnipresent in the murders and brutality. It is also prevalent in charging and sentencing. Examining the pervasiveness of institutionalized racism in prison settings is part of examining institutionalized racism in policing. Reform vs. abolition is a conversation in both movements. Watching this documentary might help with that consideration.
 
-Blessings and safety to all. — *Ellen for Boop Troop Eugene News Blog*.
+Blessings and safety to all. — *Remy for Boop Troop Eugene News Blog*.

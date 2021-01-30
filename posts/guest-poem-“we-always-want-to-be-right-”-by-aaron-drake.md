@@ -37,6 +37,6 @@ No matter if it’s obviously wrong.\
 We want to always be right but then it’s left and right, which way do you choose?\
 I choose a new idea. Can you?
 
-\* *\[Assistant Editor’s Note: “The Milgram study” referred to in the poem is summarized in the illustration above, found online at the link atop the image. It basically demonstrated that some humans’ willingness to induce torture on others as long as they were “just following orders” was not unique to Nazis in the Nuremberg trials. The pertinence to police brutality, police rioting, and police murder is clear. We need to abolish the policies that can cited as sanctioning police brutality, police rioting, and police murder, to prevent those atrocities and to hold their perpetrators accountable. –Ellen.]*
+\* *\[Assistant Editor’s Note: “The Milgram study” referred to in the poem is summarized in the illustration above, found online at the link atop the image. It basically demonstrated that some humans’ willingness to induce torture on others as long as they were “just following orders” was not unique to Nazis in the Nuremberg trials. The pertinence to police brutality, police rioting, and police murder is clear. We need to abolish the policies that can cited as sanctioning police brutality, police rioting, and police murder, to prevent those atrocities and to hold their perpetrators accountable. –Remy.]*
 
 <!--EndFragment-->

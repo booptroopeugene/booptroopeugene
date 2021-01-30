@@ -51,6 +51,6 @@ We will be glad and honored to share what you find.
 
 We love you.
 
-— *Ellen.*
+— *Remy.*
 
 <!--EndFragment-->

@@ -27,6 +27,6 @@ Note that this source also provides the following research opportunity:
 
 This is an opportunity to compare data to find the locations with the highest average number of killings by police per one million people, and to then check whether there is any correlation with the percentage of violent crime in the area.
 
-As always, Boop Troop Eugene is here to help empower us to think for ourselves, be our own media, and be our own researchers. Please feel welcome to share here what you discover. We love you. –*\-Ellen.*
+As always, Boop Troop Eugene is here to help empower us to think for ourselves, be our own media, and be our own researchers. Please feel welcome to share here what you discover. We love you. –*\-Remy.*
 
 <!--EndFragment-->

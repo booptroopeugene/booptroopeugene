@@ -17,7 +17,7 @@ tags:
 ---
 ![](/static/img/108594064_137372461355638_2071671619039734465_o-1-.jpg)
 
-Concept, writing by White-Rose-Tinted. Photo, titling, editing, annotation by Ellen
+*Concept, writing by White-Rose-Tinted. Photo, titling, editing, annotation by Remy.*
 
 Following the Indigenous Solidarity with Black event, I tried to get over to Monroe Park as quickly as I could to meet up with the Pride event. Getting there, I realized they had already left; and not knowing where they were headed, I turned around to find other things to do with my remaining day. As I was walking, I spotted some people marching and some cars, heard chanting, and realizing it was a Black_Unity event, I hurried to catch up and provide any support and solidarity I could. It was the Children’s March headed back to the park where they’d begun. Less than ten minutes later, Isiah Wagoner was struck by a car.
 

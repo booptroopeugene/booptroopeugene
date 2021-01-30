@@ -44,6 +44,6 @@ Photo Credit [Nadezhda Moryak](https://www.pexels.com/@nadezhda-moryak) © 2020
 
 **a big astral group hug.**
 
-by *Ellen ©*
+by *Remy ©*
 
 <!--EndFragment-->

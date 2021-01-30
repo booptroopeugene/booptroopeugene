@@ -67,7 +67,7 @@ us02web.zoom.us
 
 ##### Gracie Millette Schatz
 
-***The above is from Gracie. The below is added by me, BTENB Asst. Ed. Ellen.***
+***The above is from Gracie. The below is added by me, BTENB Asst. Ed. Remy.***
 
 Here is what I could find of the budget proposal among the 80+ pages in the packet for tomorrow’s meeting.
 
@@ -77,6 +77,6 @@ Here is what I could find of the budget proposal among the 80+ pages in the pack
 
 ![Screen Shot 2020-06-21 at 2.04.09 PM](/static/img/screen-shot-2020-06-21-at-2.04.09-pm-1-.png)
 
-*Participate if you can. We love you. – Ellen for BTENB.*
+*Participate if you can. We love you. – Remy for BTENB.*
 
 <!--EndFragment-->
