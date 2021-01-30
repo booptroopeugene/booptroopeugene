@@ -111,6 +111,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   // Folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/img");
+  eleventyConfig.addPassthroughCopy("bnf25da42ae11cfzg9pev0s0jpu4qt.html");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   // Test service worker file
   eleventyConfig.addPassthroughCopy("simpleSW.js");
